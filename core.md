@@ -21,7 +21,7 @@ This document is not:
 
 The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct. However, this may be altered with a copy held and maintained by the Project, only with overwhelming majority support by the entire team.
 
-Conflict resolution is the responsibility of the Moderation and Steering Council teams. They may wish to append a section to this document, but currently, this document is not conflict resolution.
+Conflict resolution is a duty split between the Moderators and Steering Council; the former for disputes in and with the community, and the latter for disputes in the Project itself. Either team may wish to append a section to this document, but currently, this document is not conflict resolution.
 
 ## Definitions
 
