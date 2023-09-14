@@ -19,7 +19,7 @@ This document is not:
  * Intended to catch all possibilities.
  * Intended to prevent "rules lawyering".
 
-The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct.
+The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct. However, this may be altered with a copy held and maintained by the Project, only with overwhelming majority support by the entire team.
 
 Conflict resolution is the responsibility of the Moderation and Steering Council teams. They may wish to append a section to this document, but currently, this document is not conflict resolution.
 
@@ -79,12 +79,16 @@ Though Maintainers may individually or collectively have different access rights
 
 Maintainers may be appointed by other Maintainers, or by application from the person who wishes to join the team.
 
+However, they have no jurisdiction or weight in moderating or managing the community, unless the Maintainer in question is also a Moderator.
+
 
 #### Moderators
 
 The Moderation team is composed of all moderators of all community spaces (GitHub, Discord) under the purview of the project.
 
 They have the responsibility of enforcing the policies and rules of each space, as well as the Code of Conduct, and applying disciplinary sanctions to people who violate said rules.
+
+However, they have no jurisdiction or weight in technical discussions, unless the Moderator in question is also a Maintainer.
 
 #### Subproject Leads
 
@@ -113,3 +117,5 @@ They may not:
 * Make major architectural decisions relating to the entire Project without the assent of the Steering Council as well as the Maintainers.
 
 Finally, the decisions made by the subproject leader and their team are, under all circumstances, subject to regular scrutiny and final review by the Maintainers and the Steering Council, to ensure the subproject still holds to the Project's values and quality standards.
+
+It is not, however, the duty of any individual Maintainer to question the actions or decisions of the subproject leads. Regular to semi-regular check-ins with the rest of the Maintainer team are the points at which feedback can be gathered. This is to ensure the smooth operation of all teams, and prevent unnecessary disagreement.
