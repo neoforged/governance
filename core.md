@@ -47,7 +47,7 @@ The Project is split into four teams.
 
 A team is a group of people with similar goals, and equal weighting in most decision making - with some exceptions, which will be explored later.
 
-You may [apply to join some teams](https://tinyurl.com/ForgeApplications), but some require appointment from within an existing team, or further voting after application.
+You may [apply to join some teams](https://links.neoforged.net/apply), but some require appointment from within an existing team, or further voting after application.
 
 #### Steering Council
 
