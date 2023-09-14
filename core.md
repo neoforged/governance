@@ -1,6 +1,6 @@
 # Governance of the NeoForged project
 
-The NeoForged project is split between [github](https://github.com/NeoForged) and [discord](https://discord.gg/UvedJ9m). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the game Minecraft.
+The NeoForged project is split between [GitHub](https://github.com/NeoForged) and [Discord](https://discord.neoforged.net). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the Minecraft game.
 
 ### What this document is
 
