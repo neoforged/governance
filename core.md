@@ -21,7 +21,7 @@ This document is not:
 
 The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct. However, this may be altered with a copy held and maintained by the Project, only with overwhelming majority support by the entire team.
 
-Conflict resolution is a duty split between the Moderators and Steering Council; the former for disputes in and with the community, and the latter for disputes in the Project itself. Either team may wish to append a section to this document, but currently, this document is not conflict resolution.
+Conflict resolution is a duty split between the Moderators and Steering Council; the former for interpersonal disputes in and with the community, and the latter for development-related disputes in the Project itself. Either team may wish to append a section to this document, but currently, this document is not conflict resolution.
 
 ## Definitions
 
@@ -119,3 +119,7 @@ They may not:
 Finally, the decisions made by the subproject leader and their team are, under all circumstances, subject to regular scrutiny and final review by the Maintainers and the Steering Council, to ensure the subproject still holds to the Project's values and quality standards.
 
 It is not, however, the duty of any individual Maintainer to question the actions or decisions of the subproject leads. Regular to semi-regular check-ins with the rest of the Maintainer team are the points at which feedback can be gathered. This is to ensure the smooth operation of all teams, and prevent unnecessary disagreement.
+
+## Other things to note
+
+Nobody is above the rules. All members of the team (even the Steering Council!) are to be held to these rules, with no exceptions granted for any individual or group.
