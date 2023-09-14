@@ -19,7 +19,7 @@ This document is not:
  * Intended to catch all possibilities.
  * Intended to prevent "rules lawyering".
 
-The code of conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the code of conduct.
+The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct.
 
 Conflict resolution is the responsibility of the Moderation and Steering Council teams. They may wish to append a section to this document, but currently, this document is not conflict resolution.
 
