@@ -88,6 +88,8 @@ The Moderation team is composed of all moderators of all community spaces (GitHu
 
 They have the responsibility of enforcing the policies and rules of each space, as well as the Code of Conduct, and applying disciplinary sanctions to people who violate said rules.
 
+Moderators may be appointed by the Steering Council, or by application from the person who wishes to join the team.
+
 However, they have no jurisdiction or weight in technical discussions, unless the Moderator in question is also a Maintainer.
 
 #### Subproject Leads
