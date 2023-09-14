@@ -53,7 +53,7 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 The Steering Council is the overall management and oversight of the Project. 
 
-They "steer" the project to keep it aligned with the long-term vision, hence its secondary name of Vision Team.
+They “steer” the project to keep it aligned with the long-term vision, hence its secondary name of Vision Team.
 
 The Council has at all times an odd number of active members, such that stalemates are not possible.
 
