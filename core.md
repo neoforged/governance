@@ -2,6 +2,10 @@
 
 The NeoForged project is split between [GitHub](https://github.com/NeoForged) and [Discord](https://discord.neoforged.net). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the Minecraft game.
 
+All contributors and team members are here for fun - our goal is to provide joy to the community, and to ourselves. 
+
+We are here because it is fun, so this document ensures that the Project doesn't become so bureaucratic or so much of a chore that the fun is removed for anybody.
+
 ### What this document is
 
 This document is:
