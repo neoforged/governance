@@ -75,7 +75,7 @@ The Council has these powers to resolve the 1% of exceptional situations, not th
 
 #### Maintainers
 
-The Maintainers team consists of all project developers who have push access or technical rights to the project's repositories or infrastructure.
+The Maintainers team consists of all project developers who have push access or technical rights (Write permissions to a Project's GitHub repository, or access to the Project's servers) to the project's repositories or infrastructure.
 
 They are the ones keeping the Project's repositories up to date, and ensuring the quality and standards of the Project are upheld, as well as adding new features as the community comes to require them.
 
