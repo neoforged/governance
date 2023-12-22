@@ -4,10 +4,10 @@ This document formalizes the process related to PR Review processes
 ### Scope
 - This document applies to all repositories within the NeoForged organization.
 - This document applies to all pull requests within the repositories that this document applies to.
-- This document does **not** apply to the governance repository
 
 #### Exclusions
-As of now, there are no excluded repositories.
+- The governance repository
+
 Labels applied to pull requests can be used to indicate that this document is not applicable.
 This document can specify labels where it does not apply or for which a different process is applicable.
 
