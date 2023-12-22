@@ -32,7 +32,8 @@ This document describes the bare minimum process that needs to be followed by al
      1. A "HotFix" label can be used. Applying a hotfix requires three independent project maintainers to approve it. Justification for why a given pull request is a hotfix has to be given in writing within the pull request description
      2. Temporary ownership of the code can be taken as if no `CODEOWNERS` file existed, overriding the official code-owner specification. In that case, four independent project maintainers need to approve the pull request, and justification by the temporary code-owner as to why he takes ownership needs to be provided in a pull request comment.
 3. The content changes of the PR should be validated
-4. It is impossible to dismiss a negative review of any maintainer; we are all equals.
+4. It is hard to dismiss a negative review of any maintainer; we are all equals.
      1. If the maintainer indicates that his review is only a remark, it can be dismissed. This indication can be provided directly with the review or outside of it. If the indication was provided outside of GitHub, a link to the publicly accessible proof of dismissal allowance needs to be provided by the dismisser.
+     2. An official maintainer vote is needed if a maintainer needs to be overridden; a supermajority in this vote indicates passing. The voting time has to be at least 72 hours, and it has to be properly communicated that this is a binding vote.
 5. All PRs require at least one approval of a none committer
 6. "Code-Owners" can not self-approve their pull requests; they must assign a temporary code owner. These pull requests do not require the four maintainers to approve, as mentioned under point 2.2
