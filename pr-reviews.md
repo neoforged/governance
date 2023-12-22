@@ -34,3 +34,5 @@ This document describes the bare minimum process that needs to be followed by al
 3. The content changes of the PR should be validated
 4. It is impossible to dismiss a negative review of any maintainer; we are all equals.
      1. If the maintainer indicates that his review is only a remark, it can be dismissed. This indication can be provided directly with the review or outside of it. If the indication was provided outside of GitHub, a link to the publicly accessible proof of dismissal allowance needs to be provided by the dismisser.
+5. All PRs require at least one approval of a none committer
+6. "Code-Owners" can not self-approve their pull requests; they must assign a temporary code owner. These pull requests do not require the four maintainers to approve, as mentioned under point 2.2
