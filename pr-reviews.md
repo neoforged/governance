@@ -25,15 +25,5 @@ This document describes the bare minimum process that needs to be followed by al
       3. Changes to project consumption (GAV changes etc.)
       
       If nothing needs to be communicated, this must also be stated with reasoning.
-2. All pull requests should have a review of a "code-owner". A code owner is defined in the `CODEOWNERS` file by default. 
-   If such a file is missing, a code owner can be defined on a pull-request-by-pull-request basis, depending on the available expertise. 
-   However, if a temporary owner is used, the pull request can only be merged 48 hours after the last approval and with all reviewer's approval.
-   If a `CODEOWNERS` file is present, there are two ways to get around the needed approval in case the owner is not available:
-     1. A "HotFix" label can be used. Applying a hotfix requires three independent project maintainers to approve it. Justification for why a given pull request is a hotfix has to be given in writing within the pull request description
-     2. Temporary ownership of the code can be taken as if no `CODEOWNERS` file existed, overriding the official code-owner specification. In that case, four independent project maintainers need to approve the pull request, and justification by the temporary code-owner as to why he takes ownership needs to be provided in a pull request comment.
-3. The content changes of the PR should be validated
-4. It is hard to dismiss a negative review of any maintainer; we are all equals.
-     1. If the maintainer indicates that his review is only a remark, it can be dismissed. This indication can be provided directly with the review or outside of it. If the indication was provided outside of GitHub, a link to the publicly accessible proof of dismissal allowance needs to be provided by the dismisser.
-     2. An official maintainer vote is needed if a maintainer needs to be overridden; a supermajority in this vote indicates passing. The voting time has to be at least 72 hours, and it has to be properly communicated that this is a binding vote.
-5. All PRs require at least one approval of a none committer
-6. "Code-Owners" can not self-approve their pull requests; they must assign a temporary code owner. These pull requests do not require the four maintainers to approve, as mentioned under point 2.2
+2. All pull requests not scoped to fixing an issue or deemed to have a sufficiently large impact by at least one maintainer require a cooling-off period between the last commit and the merge of at least 72 hours. Even if approving reviews are given in the meantime.
+3. The dismissal of a review should, at all costs, be avoided. However, if it is foreseeable that a reviewer is not able to review a pull request again due to time constraints on his or her part, then after a sufficiently long waiting period and a discussion between maintainers, the review can be dismissed.
