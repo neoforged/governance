@@ -47,7 +47,7 @@ These may be:
 
 ### Teams
 
-The Project is split into four teams.
+The Project is split into three teams.
 
 A team is a group of people with similar goals, and equal weighting in most decision making - with some exceptions, which will be explored later.
 
@@ -85,7 +85,6 @@ Maintainers may be appointed by other Maintainers, or by application from the pe
 
 However, they have no jurisdiction or weight in moderating or managing the community, unless the Maintainer in question is also a Moderator.
 
-
 #### Moderators
 
 The Moderation team is composed of all moderators of all community spaces (GitHub, Discord) under the purview of the project.
@@ -95,36 +94,6 @@ They have the responsibility of enforcing the policies and rules of each space, 
 Moderators may be appointed by the Steering Council, or by application from the person who wishes to join the team.
 
 Unless a Moderator is also a Maintainer, they cannot influence technical decisions, but they can still express their opinion, just as any other person.
-
-#### Subproject Leads
-
-A special group exists for those designated as "subproject leaders".
-
-The members of this group were assigned from the Maintainers team, and is indeed a strict subset of the Maintainers team.
-
-The role of this team is to take lead of a subproject, [as defined above](#subprojects).
-
-The subproject leader has total purview of their given subproject (repository or task) up to and including their primary goal.
-
-They may:
-* Decide the structure of their team, in whatever capacity is neccessary.
-* Decide who may or may not be on their team.
-* Delegate the power of subproject leader to another person.
-* Make final decisions on the implementation and structure of their subproject.
-* Overrule another Maintainer on the strict matter of their subproject, and no other.
-
-They are not:
-* A project dictator.
-* Unaccountable.
-* Free from scrutiny.
-
-They may not:
-* Make decisions not related to their subproject.
-* Make major architectural decisions relating to the entire Project without the assent of the Steering Council as well as the Maintainers.
-
-Finally, the decisions made by the subproject leader and their team are, under all circumstances, subject to regular scrutiny and final review by the Maintainers and the Steering Council, to ensure the subproject still holds to the Project's values and quality standards.
-
-It is not, however, the duty of any individual Maintainer to question the actions or decisions of the subproject leads. Regular to semi-regular check-ins with the rest of the Maintainer team are the points at which feedback can be gathered. This is to ensure the smooth operation of all teams, and prevent unnecessary disagreement.
 
 ## Other things to note
 
