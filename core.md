@@ -65,7 +65,7 @@ A member may choose to become inactive and appoint another in their place until 
 
 At least one member of the Council is promoted from other teams via an annual internal vote, to ensure that the Council always has fresh insight from a new team member with a different view on situations, and thus does not stagnate over time.
 
-Once a year, [an internal voting process](https://peps.python.org/pep-8104/) will determine the members that will be promoted to the Steering Council, via the [Helios voting system](https://heliosvoting.org/). It is intended that at least one, and at most three members will be promoted at a time.
+Once a year, an internal voting process inspired by [the process implemented in the Python Software Foundation](https://peps.python.org/pep-0013/) will determine the members that will be promoted to the Steering Council via the [Helios voting system](https://heliosvoting.org/). It is intended that at least one, and at most three members will be promoted at a time.
 
 The Council also serves double duty as a mediator for disagreements between other teams. These shall be resolved by discussion, rather than by unanimous applications of the rules, so this is not in the purview of this document.
 
