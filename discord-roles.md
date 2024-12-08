@@ -2,31 +2,33 @@
 The ownership of the Discord is Transferred to a special account: `@neoforged.admin` its credentials can be found in the core Vault
 
 ### Roles
-| Name                              | Members                 |      Hoisted       |        Color        |                Icon                |
-|-----------------------------------|-------------------------|:------------------:|:-------------------:|:----------------------------------:|
-| PIM Bot                           | PIM Bot                 |        :x:         |        None         |                None                |
-| Server Manager (Manage server)    | PIM                     |        :x:         |        None         |                None                |
-| Role Manager (Manages roles)      | PIM                     |        :x:         |        None         |                None                |
-| Channel Manager (Manage channels) | PIM                     |        :x:         |        None         |                None                |
-| Announcer                         | PIM                     |        :x:         |        None         |                None                |
-| Steering Council                  | SC Members              | :white_check_mark: |        None         |                None                |
-| Moderators                        | Moderators              | :white_check_mark: |        None         |                None                |
-| Maintainers                       | Maintainers             | :white_check_mark: |        None         |                None                |
-| Foundation Team                   | Foundation Members      | :white_check_mark: |        None         |                None                |
-| Infrastructure Team               | Infrastructure Managers | :white_check_mark: |        None         |                None                |
-| Docs Team                         | Documentation writers   | :white_check_mark: |        None         |                None                |
-| Bot Team                          | Bot managers            | :white_check_mark: |        None         |                None                |
-| NeoForged Team                    | All team members        |        :x:         |        None         |                None                |
-| Mojang Team                       | Mojangsters             |        :x:         |        None         |                None                |
-| ModLauncher Team                  | McModLauncher Team      |        :x:         |        None         |                None                |
-| RetroGradle Team                  | RetroGradle Team        |        :x:         |        None         |                None                |
-| Moderator                         | Moderators              |        :x:         |        None         |                None                |
-| Snapshot Alarm                    | Added via Discord Join  |        :x:         |        None         |                None                |
-| Announcement Pings                | Added via Discord Join  |        :x:         |        None         |                None                |
-| Dev Announcement Pings            | Added via Discord Join  |        :x:         |        None         |                None                |
-| Snapshot Guesser                  | ?                       |        :x:         |        None         |                None                |
-| All Vanity Roles                  |                         |        :x:         | 1 for each MC Color | 1 for each hoisted role + combined |
-| All Bot Roles                     |                         |        :x:         |        None         |                Gear                |
+| Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
+|------------------------|-----------------------------------|:------------------------------------------------------------------|:------------------:|:-------------------:|:----------------------------------:|
+| PIM Bot                | PIM Bot                           | PIM bot - see below                                               |        :x:         |        None         |                None                |
+| Server Manager         | PIM                               | Has Manage Server/Admin permission                                |        :x:         |        None         |                None                |
+| Role Manager           | PIM                               | Has Manage Roles permission                                       |        :x:         |        None         |                None                |
+| Channel Manager        | PIM                               | Has Manage Channels permission                                    |        :x:         |        None         |                None                |
+| Announcer              | PIM                               | Has Write Message permission in #announcements/#dev-announcements |        :x:         |        None         |                None                |
+| Steering Council       | SC Members                        | Steering Council role, as we currently have it.                   | :white_check_mark: |        None         |                None                |
+| Moderators             | Moderators                        | Has moderation permissions, i.e. mute, kick, ban, etc.            | :white_check_mark: |        None         |                None                |
+| Maintainers            | Maintainers                       | Has GitHub permissions.                                           | :white_check_mark: |        None         |                None                |
+| Foundation Team        | Foundation Members                | Involved in the NeoForged legal entity.                           | :white_check_mark: |        None         |                None                |
+| Infrastructure Team    | Infrastructure Managers           | Involved in the project infrastructure in some way.               | :white_check_mark: |        None         |                None                |
+| Docs Team              | Documentation writers             | People with permissions on the docs repo.                         | :white_check_mark: |        None         |                None                |
+| Bot Team               | Bot managers                      | People who can manage the bot.                                    | :white_check_mark: |        None         |                None                |
+| NeoForged Team         | All team members                  | Catch-all for all the hoisted roles above.                        |        :x:         |        None         |                None                |
+| Mojang Team            | Mojangsters                       | Mojang people.                                                    |        :x:         |     Mojang Red      |                None                |
+| ModLauncher Team       | McModLauncher Team                | Members of the ModLauncher side project.                          |        :x:         |        None         |                None                |
+| RetroGradle Team       | RetroGradle Team                  | Members of the RetroGradle side project.                          |        :x:         |        None         |                None                |
+| Moderator              | Moderators                        | The pingable moderator role.                                      |        :x:         |        None         |                None                |
+| Probation              | New team members                  | Given to new team members.                                        |        :x:         |        None         |                None                |
+| Snapshot Alarm         | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
+| Announcement Pings     | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
+| Dev Announcement Pings | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
+| Snapshot Guesser       | Whoever guessed the snapshot time | Assigned by a team member.                                        |        :x:         |        None         |                None                |
+| All Vanity Roles       | All team members (optionally)     | The only roles with colors.                                       |        :x:         | 1 for each MC Color | 1 for each hoisted role + combined |
+| Nitro Booster          | Nitro boosters                    | Handled by the Discord integration.                               |        :x:         |        None         |         Nitro Booster Icon         |
+| All Bot Roles          | All bots                          | Discord-demanded integrations.                                    |        :x:         |        None         |                Gear                |
 
 ### PIM
 PIM stands for Privileged Identity Management, its main goal is to provide a Just-In-Time way of giving users permissions when they need it.
