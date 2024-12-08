@@ -10,11 +10,9 @@ At least one new member should be elected to the Steering Council in each year, 
 
 ### Election Officers
 
-Before the election, election officers are determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. There should be at least two election officers.
+Before the election, election officers are determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. There should be at least three election officers, which should not be members of the Steering Council prior to the election.
 
-The election officers' job is to organize and supervise the election process. As such, election officers are not allowed to run, nominate or vote. In the following sections, "team members" will be used as a synonym for "team members except for election officers", unless explicitly stated otherwise.
-
-The election officers must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
+The election officers' job is to organize and supervise the election process. Additionally, they must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
 
 ## The Election Process
 
