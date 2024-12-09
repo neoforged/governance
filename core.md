@@ -2,15 +2,16 @@
 
 The NeoForged project is split between [GitHub](https://github.com/NeoForged) and [Discord](https://discord.neoforged.net). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the Minecraft game.
 
-All contributors and team members are here for fun - our goal is to provide joy to the community, and to ourselves. 
+All contributors and team members are here for fun - our goal is to provide joy to the community, and to ourselves.
 
 We are here because it is fun, so this document ensures that the Project doesn't become so bureaucratic or so much of a chore that the fun is removed for anybody.
 
 ### What this document is
 
 This document is:
- * A non-exhaustive list of the working principles of the project.
- * Intended to help guide the project in times of uncertainty.
+
+- A non-exhaustive list of the working principles of the project.
+- Intended to help guide the project in times of uncertainty.
 
 This document is built on the fundamental principle of "people generally want to help, so we should not get in the way of it".
 
@@ -19,9 +20,10 @@ The core ethic is "people over processes", so this document is intentionally lig
 ### What this document is not
 
 This document is not:
- * Intended to enforce rules on all members.
- * Intended to catch all possibilities.
- * Intended to prevent "rules lawyering".
+
+- Intended to enforce rules on all members.
+- Intended to catch all possibilities.
+- Intended to prevent "rules lawyering".
 
 The Code of Conduct of the project is taken to be the content of [the Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), so this document is not the Code of Conduct. However, this may be altered with a copy held and maintained by the Project, only with overwhelming majority support by the entire team.
 
@@ -55,7 +57,7 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council is the overall management and oversight of the Project. 
+The Steering Council is the overall management and oversight of the Project.
 
 They “steer” the project to keep it aligned with the long-term vision, hence its secondary name of Vision Team.
 
@@ -65,7 +67,7 @@ A member may choose to become inactive and appoint another in their place until 
 
 At least one member of the Council is promoted from other teams via an annual internal vote, to ensure that the Council always has fresh insight from a new team member with a different view on situations, and thus does not stagnate over time.
 
-Once a year, an internal voting process inspired by [the process implemented in the Python ecosystem](https://peps.python.org/pep-0013/) will determine the members that will be promoted to the Steering Council via the [Helios voting system](https://heliosvoting.org/). It is intended that at least one, and at most three members will be promoted at a time.
+Once a year, an internal voting process inspired by [the process implemented in the Python ecosystem](https://peps.python.org/pep-0013/) will determine the members that will be promoted to the Steering Council via the [Helios voting system](https://heliosvoting.org/). All three members of the Council will be elected, at least one of which must be a member that has not been on the Council in the previous term.
 
 The Council also serves double duty as a mediator for disagreements between other teams. These shall be resolved by discussion, rather than by unanimous applications of the rules, so this is not in the purview of this document.
 
