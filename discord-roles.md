@@ -4,7 +4,7 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 ### Roles
 | Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
 |------------------------|-----------------------------------|:------------------------------------------------------------------|:------------------:|:-------------------:|:----------------------------------:|
-| PIM Bot                | PIM Bot                           | PIM bot - see below                                               |        :x:         |        None         |                None                |
+| PIM Granters           | PIM Bot + Admin account           | PIM granters. Can grant privileged roles to team members          |        :x:         |        None         |                None                |
 | Server Manager         | PIM                               | Has Manage Server/Admin permission                                |        :x:         |        None         |                None                |
 | Role Manager           | PIM                               | Has Manage Roles permission                                       |        :x:         |        None         |                None                |
 | Channel Manager        | PIM                               | Has Manage Channels permission                                    |        :x:         |        None         |                None                |
@@ -18,11 +18,10 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 | Bot Team               | Bot managers                      | People who can manage the bot.                                    | :white_check_mark: |        None         |                None                |
 | NeoForged Team         | All team members                  | Catch-all for all the hoisted roles above.                        |        :x:         |        None         |                None                |
 | Automation             | Camelot                           | Contains camelot so that it can moderate the public.              |        :x:         |        Gray         |                Gear                |
-| Mojang Team            | Mojangsters                       | Mojang people.                                                    |        :x:         |     Mojang Red      |                None                |
-| ModLauncher Team       | McModLauncher Team                | Members of the ModLauncher side project.                          |        :x:         |        None         |                None                |
+| Mojangstas             | Mojangsters                       | Mojang people.                                                    |        :x:         |     Mojang Red      |                None                |
+| ModLauncher            | McModLauncher Org                 | Members of the ModLauncher side organization                      |        :x:         |        None         |                None                |
 | Moderator              | Moderators                        | The pingable moderator role.                                      |        :x:         |        None         |                None                |
 | Probation              | New team members                  | Given to new team members.                                        |        :x:         |        None         |                None                |
-| Helper                 | Experts in the community          | Given to experts.                                                 |        :x:         |        None         |                None                |
 | Snapshot Alarm         | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
 | Announcement Pings     | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
 | Dev Announcement Pings | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
