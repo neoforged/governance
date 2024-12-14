@@ -56,7 +56,7 @@ There are two high privilege roles:
 - Server manager
 - Role manager
 
-These roles will be assigned for 6 hours maximum and require an approval of a Steering Council member
+These roles will be assigned for 6 hours maximum and require approval of a Steering Council member.
 
 #### Medium privilege roles
 There is currently one medium privilege role:
