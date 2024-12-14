@@ -34,7 +34,7 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 ### PIM
 PIM stands for Privileged Identity Management, its main goal is to provide a Just-In-Time way of giving users permissions when they need it.
 In a controlled and operational fashion. With or without approval of a second person.
-This ensures that roles with extreme rights, which when misused (either through hacking or for personal gain) would harm the server and the community.
+This ensures that roles with extreme rights, which when misused (either through hacking or for personal gain) would harm the server and the community, are not directly accessible via Discord alone.
 If an approval is needed for the role, it can only be granted by somebody other than the requester, even if the requester would normally be eligible to approve the role request.
 All team members will be eligible for any and all roles exposed via the bot.
 
