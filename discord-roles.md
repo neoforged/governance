@@ -59,7 +59,7 @@ There are two high privilege roles:
 These roles will be assigned for 6 hours maximum and require approval of a Steering Council member.
 
 #### Medium privilege roles
-There is currently one medium privilege role:
+There is one medium privilege role:
 - Channel Manager
 
 These roles will be assigned for 12 hours maximum and require an approval of a moderator
