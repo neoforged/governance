@@ -62,7 +62,7 @@ These roles will be assigned for 6 hours maximum and require approval of a Steer
 There is one medium privilege role:
 - Channel Manager
 
-These roles will be assigned for 12 hours maximum and require an approval of a moderator
+These roles will be assigned for 12 hours maximum and require approval of a moderator.
 
 #### Low privilege roles
 There is currently one low privilege role:
