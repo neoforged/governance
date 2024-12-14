@@ -23,6 +23,7 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 | Moderator              | Moderators                        | The pingable moderator role.                                      |        :x:         |        None         |                None                |
 | Probation              | New team members                  | Given to new team members.                                        |        :x:         |        None         |                None                |
 | Community Volunteers   | Community volunteer Helpers       | Given to community experts to help others.                        |        :x:         |        None         |                None                |
+| Former Member          | Old team members                  | Given to old team members to honor their contributions.           |        :x:         |        None         |                None                |
 | Snapshot Alarm         | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
 | Announcement Pings     | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
 | Dev Announcement Pings | Added via Discord Join            | Available for anyone to add in Channels & Roles.                  |        :x:         |        None         |                None                |
