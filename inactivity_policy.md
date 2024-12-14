@@ -27,5 +27,5 @@ Every year, 2 months before the next planned Steering Council elections, the Ste
 
 If a Former Member later wishes to rejoin the team, they can provide an application for the role and they will be judged just like any other person applying to join the team. 
 
-Steering Council members cannot be put through this process as per the (voting.md)[voting.md] document, Steering Council are re-elected every year and thus, are routinely judged and replaced to ensure there are always active council members.
+Steering Council members cannot be put through this process as per the (voting.md)[voting.md] document. Steering Council are re-elected every year and thus are routinely judged and replaced to ensure there are always active council members.
 
