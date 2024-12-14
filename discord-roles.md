@@ -1,5 +1,8 @@
-### Discord Ownership
-The ownership of the Discord is Transferred to a special account: `@neoforged.admin` its credentials can be found in the core Vault
+# Discord Roles
+With Discord being one of the main community spaces of the NeoForged project, a proper structure for Discord is needed. This document lays out the roles and administration concepts for the NeoForged Discord server.
+
+## Ownership
+The ownership of the Discord is held by a special account: `@neoforged.admin`. Its credentials can be found in the Vault, accessible by Steering Council members.
 
 ### Roles
 | Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
