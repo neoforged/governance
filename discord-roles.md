@@ -1,7 +1,10 @@
-### Discord Ownership
-The ownership of the Discord is Transferred to a special account: `@neoforged.admin` its credentials can be found in the core Vault
+# Discord Roles
+With Discord being one of the main community spaces of the NeoForged project, a proper structure for Discord is needed. This document lays out the roles and administration concepts for the NeoForged Discord server.
 
-### Roles
+## Ownership
+The ownership of the Discord is held by a special account: `@neoforged.admin`. Its credentials can be found in the Vault, accessible by Steering Council members.
+
+## Roles
 | Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
 |------------------------|-----------------------------------|:------------------------------------------------------------------|:------------------:|:-------------------:|:----------------------------------:|
 | Server Owners          | Admin account                     | Server owner, hoisted for visibility                              | :white_check_mark: |     Bright Red      |                Hammer              |
@@ -35,32 +38,36 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 | All Bot Roles          | All bots                          | Discord-demanded integrations.                                    |        :x:         |        None         |                Gear                |
 
 ### PIM
-PIM stands for Privileged Identity Management, its main goal is to provide a Just-In-Time way of giving users permissions when they need it.
-In a controlled and operational fashion. With or without approval of a second person.
+PIM stands for Privileged Identity Management. Its main goal is to provide a just-in-time way of giving users permissions when they need it, in a controlled and operational fashion, with or without approval of a second person.
+
 This ensures that roles with extreme rights, which when misused (either through hacking or for personal gain) would harm the server and the community, are not directly accessible via Discord alone.
+
 If an approval is needed for the role, it can only be granted by somebody other than the requester, even if the requester would normally be eligible to approve the role request.
+
 All team members will be eligible for any and all roles exposed via the bot.
 
 #### The PIM Bot
-The pim bot is a special sole purpose bot that can be used by team members to request certain roles.
-Its command structure is: `/pim <rolename> <reason>` depending on the roles configuration within the bot, the bot will them either directly assign your requested role to you, or ask a specific team for approval.
-When the allotted time for your assignment has passed, the bot will automatically remove the role from you. This way you do not forget, and the risk to the community is minimal.
+The pim bot is a special sole purpose bot that can be used by team members to request certain roles. Its command structure is: `/pim <rolename> <reason>`.
+
+Depending on the configuration within the bot, the bot will then either directly assign the requested role to the team member, or ask a specific team for approval.
+
+When the allotted time for the role assignment has passed, the bot will automatically remove the role from the team member. This way there is no way of forgetting to unassign the role, and the risk to the community is minimal.
 
 #### High privilege roles
 There are two high privilege roles:
 - Server manager
 - Role manager
 
-These roles will be assigned for 6 hours maximum and require an approval of a Steering Council member
+These roles will be assigned for 6 hours maximum and require approval of a Steering Council member.
 
 #### Medium privilege roles
-There is currently one medium privilege role:
+There is one medium privilege role:
 - Channel Manager
 
-These roles will be assigned for 12 hours maximum and require an approval of a moderator
+These roles will be assigned for 12 hours maximum and require approval of a moderator.
 
 #### Low privilege roles
-There is currently one low privilege role:
+There is one low privilege role:
 - Announcer
 
 This role is assigned for 16 hours maximum and does not require an approval.
