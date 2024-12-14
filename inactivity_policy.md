@@ -5,7 +5,7 @@ Like in any other large project, members on the NeoForged team may become inacti
 ### What this document is
 
 This document is:
- * Intended to outline the procedure to prunning inactive Neoforged team members with minimal disagreements.
+ * Intended to outline the procedure to pruning inactive Neoforged team members with minimal disagreements.
 
 ### What this document is not
 
