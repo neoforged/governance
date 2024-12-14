@@ -20,7 +20,7 @@ Every year, 2 months before the next planned Steering Council elections, the Ste
  * Reach out to the member in question by DM and ask about their inactivity to the team. Wait at least 2 weeks for a response.
    * If no response, reach out to other members on the person's subteam to verify that the person is inactive in the role they were assigned.
  * If the member is still active and there is evidence of recent contribution presented, then the investigation is ended there and member remains on the team.
- * If the member provides a reasonable excuse for their inactivity such as life situations getting in the way, they may be granted an extra year to remain on the team so they can have the time to get back into contributing once they are available to do so. This grace period must be agreed upon by 2/3rds of the Steering Council.
+ * If the member provides a reasonable excuse for their inactivity, such as life situations getting in the way, they may be granted an extra year to remain on the team so they can have the time to get back into contributing once they are available to do so. This grace period must be agreed upon by 2/3rds of the Steering Council.
  * If the member fails to provide a resonable excuse or failed to reply and no one has seen any recent contributions, then 2/3rds of the Steering Council must agree that the evidence shown means the member will be stripped from the team and given the Former Member role.
 
 ## Other things to note
