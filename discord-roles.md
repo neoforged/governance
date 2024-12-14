@@ -4,7 +4,7 @@ With Discord being one of the main community spaces of the NeoForged project, a 
 ## Ownership
 The ownership of the Discord is held by a special account: `@neoforged.admin`. Its credentials can be found in the Vault, accessible by Steering Council members.
 
-### Roles
+## Roles
 | Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
 |------------------------|-----------------------------------|:------------------------------------------------------------------|:------------------:|:-------------------:|:----------------------------------:|
 | PIM Granters           | PIM Bot + Admin account           | PIM granters. Can grant privileged roles to team members          |        :x:         |        None         |                None                |
