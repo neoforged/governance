@@ -4,19 +4,21 @@ The ownership of the Discord is Transferred to a special account: `@neoforged.ad
 ### Roles
 | Name                   | Members                           | Description                                                       |      Hoisted       |        Color        |                Icon                |
 |------------------------|-----------------------------------|:------------------------------------------------------------------|:------------------:|:-------------------:|:----------------------------------:|
-| PIM Granters           | PIM Bot + Admin account           | PIM granters. Can grant privileged roles to team members          |        :x:         |        None         |                None                |
+| Server Owners          | Admin account                     | Server owner, hoisted for visibility                              | :white_check_mark: |     Bright Red      |                Hammer              |
+| PIM Granters           | PIM Bot                           | PIM granters. Can grant privileged roles to team members          |        :x:         |        None         |                None                |
 | Server Manager         | PIM                               | Has Manage Server/Admin permission                                |        :x:         |        None         |                None                |
 | Role Manager           | PIM                               | Has Manage Roles permission                                       |        :x:         |        None         |                None                |
 | Channel Manager        | PIM                               | Has Manage Channels permission                                    |        :x:         |        None         |                None                |
 | Announcer              | PIM                               | Has Write Message permission in #announcements/#dev-announcements |        :x:         |        None         |                None                |
-| Steering Council       | SC Members                        | Steering Council role, as we currently have it.                   | :white_check_mark: |        None         |                None                |
-| Moderators             | Moderators                        | Has moderation permissions, i.e. mute, kick, ban, etc.            | :white_check_mark: |        None         |                None                |
-| Maintainers            | Maintainers                       | Has GitHub permissions.                                           | :white_check_mark: |        None         |                None                |
+| Steering Council       | SC Members                        | Steering Council role, as we currently have it.                   | :white_check_mark: |        None         |                Steering wheel      |
+| NeoForged Team         | All team members                  | Catch-all for all the hoisted roles.                              |        :x:         |        None         |                Fox                 |
+| Moderaintainer         | Moderator && Maintainer           | Any team member that is moderator and maintainer.                 |        :x:         |        None         |                Tagged Shield       |
+| Moderators             | Moderators                        | Has moderation permissions, i.e. mute, kick, ban, etc.            | :white_check_mark: |        None         |                Shield              |
+| Maintainers            | Maintainers                       | Has GitHub permissions.                                           | :white_check_mark: |        None         |                Tag                 |
 | Foundation Team        | Foundation Members                | Involved in the NeoForged legal entity.                           | :white_check_mark: |        None         |                None                |
-| Infrastructure Team    | Infrastructure Managers           | Involved in the project infrastructure in some way.               | :white_check_mark: |        None         |                None                |
-| Docs Team              | Documentation writers             | People with permissions on the docs repo.                         | :white_check_mark: |        None         |                None                |
+| Infrastructure Team    | Infrastructure Managers           | Involved in the project infrastructure in some way.               | :white_check_mark: |        None         |                Server              |
+| Docs Team              | Documentation writers             | People with permissions on the docs repo.                         | :white_check_mark: |        None         |                Clipboard           |
 | Bot Team               | Bot managers                      | People who can manage the bot.                                    | :white_check_mark: |        None         |                None                |
-| NeoForged Team         | All team members                  | Catch-all for all the hoisted roles above.                        |        :x:         |        None         |                None                |
 | Automation             | Camelot                           | Contains camelot so that it can moderate the public.              |        :x:         |        Gray         |                Gear                |
 | Mojangstas             | Mojangsters                       | Mojang people.                                                    |        :x:         |     Mojang Red      |                None                |
 | ModLauncher            | McModLauncher Org                 | Members of the ModLauncher side organization                      |        :x:         |        None         |                None                |
@@ -64,9 +66,9 @@ There is currently one low privilege role:
 This role is assigned for 16 hours maximum and does not require an approval.
 
 ### Vanity roles.
-There are two kinds of vanity roles: Color and Icon
-Depending on the team, each team will get its own icon, and as such each team member will get an Icon role assigned, potentially multiple.
-The color is freely pick-able by any team member (however each team will get a default color role as well)
+The vanity roles exist so that team members can assign themselves the color they want.
+
 The available colors are the 16 colors from Minecraft, else we will again have a wild mixture of roles.
-One last special vanity role is Automation, which marks all bots.
+
+One last special vanity role is Automation, which marks all bots, and gives them the ability to actually operate on the general public.
 
