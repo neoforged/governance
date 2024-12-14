@@ -65,7 +65,7 @@ There is one medium privilege role:
 These roles will be assigned for 12 hours maximum and require approval of a moderator.
 
 #### Low privilege roles
-There is currently one low privilege role:
+There is one low privilege role:
 - Announcer
 
 This role is assigned for 16 hours maximum and does not require an approval.
