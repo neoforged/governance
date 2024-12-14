@@ -1,6 +1,6 @@
 # Inactivity Policy
 
-Like any other large projects, members on the NeoForge team may become inactive and stop contributing to the project over long periods of time. This document outline a policy to make sure that inactive members are routinely removed from the team in order to keep the team size at a healthy amount and fully active.
+Like in any other large project, members on the NeoForged team may become inactive and stop contributing to the project over long periods of time. This document outlines a policy to make sure that inactive members are routinely removed from the team in order to keep the team size at a healthy amount and fully active.
 
 ### What this document is
 
