@@ -45,9 +45,11 @@ If an approval is needed for the role, it can only be granted by somebody other 
 All team members will be eligible for any and all roles exposed via the bot.
 
 #### The PIM Bot
-The pim bot is a special sole purpose bot that can be used by team members to request certain roles.
-Its command structure is: `/pim <rolename> <reason>` depending on the roles configuration within the bot, the bot will them either directly assign your requested role to you, or ask a specific team for approval.
-When the allotted time for your assignment has passed, the bot will automatically remove the role from you. This way you do not forget, and the risk to the community is minimal.
+The pim bot is a special sole purpose bot that can be used by team members to request certain roles. Its command structure is: `/pim <rolename> <reason>`.
+
+Depending on the configuration within the bot, the bot will then either directly assign the requested role to the team member, or ask a specific team for approval.
+
+When the allotted time for the role assignment has passed, the bot will automatically remove the role from the team member. This way there is no way of forgetting to unassign the role, and the risk to the community is minimal.
 
 #### High privilege roles
 There are two high privilege roles:
