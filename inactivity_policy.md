@@ -17,7 +17,7 @@ This document is not:
 
 ### Main Review
 
-Every year, 7 months before the next planned Steering Council elections, the Steering Council members will review the list of all NeoForged team members. If a member has not been contributing for what their role is for over 12 months (Maintainers working on projects, Moderators watching conversations, subteam members working on their respective subprojects), the Steering Council will begin following this procedure:
+Every year, 7 months before the next planned Steering Council elections, the Steering Council members will review the list of all NeoForged team members. If a member has not been contributing for what their role is for over 12 months (Maintainers working on projects, Moderators watching conversations, subteam members working on their respective subprojects), the Steering Council will begin the following procedure:
 
  * Reach out to the member in question and ask about their inactivity to the team. Wait at least 2 weeks for a response.
    * If no response, reach out to other members on the person's subteam to verify that the person is inactive in the role they were assigned.
