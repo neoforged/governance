@@ -20,7 +20,7 @@ This document is not:
 Every year, 7 months before the next planned Steering Council elections, the Steering Council members will review the list of all NeoForged team members. If a member has not been contributing for what their role is for over 12 months (Maintainers working on projects, Moderators watching conversations, subteam members working on their respective subprojects), the Steering Council will begin the following procedure:
 
  * Reach out to the member in question and ask about their inactivity to the team. Wait at least 2 weeks for a response.
-   * If no response, reach out to other members on the person's subteam to verify that the person is inactive in the role they were assigned.
+   * If no response, reach out to other team members to verify that the person is inactive in the role they were assigned.
  * If the member is still active and there is evidence of recent contribution presented, then the investigation is ended there and member remains on the team.
  * If the member provides a reasonable excuse for their inactivity, such as life situations getting in the way, they may be granted an additional 6 months to remain on the team so they can have the time to get back into contributing once they are available to do so. This grace period must be agreed upon by 2/3rds of the Steering Council and will have the member marked by a Grace Period role to help keep track.
  * If the member fails to provide a resonable excuse or failed to reply and no one has seen any recent contributions, then 2/3rds of the Steering Council must agree that the evidence shown means the member will be stripped from the team and given the Former Member role.
