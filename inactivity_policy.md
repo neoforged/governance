@@ -31,6 +31,8 @@ For Grace Period roled members that were granted a grace period by Steering Coun
 
 ## Other things to note
 
+Members with two team roles (Example is Moderator and Maintainer), the person will be evaluated on each role separately. A person can lose one role they are inactive with but keep the other role they are contributing on.
+
 Members who contribute extremely infrequently may get subjected to this inactivity procedure. This will be determined on a case-by-case basis to prevent people from contibuting one small thing every year to stay on the team. Ideally, active team members regularly contibute and their presence/contributions are felt by the rest of the team/community.
 
 If a Former Member later wishes to rejoin the team, they can provide an application for the role and they will be judged just like any other person applying to join the team. 
