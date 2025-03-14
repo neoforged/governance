@@ -1,0 +1,11 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/base:ubuntu",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "yzhang.markdown-all-in-one",
+                "idanp.smartmulticursor"
+            ]
+        }
+    }
+}
