@@ -27,7 +27,7 @@ The ownership of the Discord is held by a special account: `@neoforged.admin`. I
 | ModLauncher            | McModLauncher Org                 | Members of the ModLauncher side organization                                                        |        :x:         |        None         |                None                |
 | Moderator              | Moderators                        | The pingable moderator role.                                                                        |        :x:         |        None         |                None                |
 | Probation              | New team members                  | Given to new team members.                                                                          |        :x:         |        None         |                None                |
-| Collaborator           | External representatives          | Has libraries or other works that NeoForged is reliant upon. Grants access to #project-talk channel |        :x:         |        None         |                None                |
+| Collaborator           | Recognized Non-Neoforged people   | Has libraries or other works that NeoForged is reliant upon. Grants access to #project-talk channel |        :x:         |        None         |                None                |
 | Community Volunteers   | Community volunteer Helpers       | Given to community experts to help others.                                                          |        :x:         |        None         |                None                |
 | Former Member          | Old team members                  | Given to old team members to honor their contributions.                                             |        :x:         |        None         |                None                |
 | Snapshot Alarm         | Added via Discord Join            | Available for anyone to add in Channels & Roles.                                                    |        :x:         |        None         |                None                |
@@ -73,7 +73,7 @@ There is one low privilege role:
 
 This role is assigned for 16 hours maximum and does not require an approval.
 
-#### External representatives roles
+#### Collaborator role
 
 This is a unique role to generalize granting access to #project-talk and for identifying people who have libraries, tooling, or other works that NeoForged's projects are reliant upon or uses. Any NeoForged member can grant this role to other.
 
