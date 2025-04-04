@@ -36,6 +36,7 @@ The ownership of the Discord is held by a special account: `@neoforged.admin`. I
 | All Vanity Roles       | All team members (optionally)     | The only roles with colors.                                       |        :x:         | 1 for each MC Color | 1 for each hoisted role + combined |
 | Nitro Booster          | Nitro boosters                    | Handled by the Discord integration.                               |        :x:         |        None         |         Nitro Booster Icon         |
 | All Bot Roles          | All bots                          | Discord-demanded integrations.                                    |        :x:         |        None         |                Gear                |
+| Collaborator           | Special non-team members          | High-impact people. Grants access to #project-talk channel        |        :x:         |        None         |                None                |
 
 ### PIM
 PIM stands for Privileged Identity Management. Its main goal is to provide a just-in-time way of giving users permissions when they need it, in a controlled and operational fashion, with or without approval of a second person.
