@@ -73,7 +73,7 @@ There is one low privilege role:
 
 This role is assigned for 16 hours maximum and does not require an approval.
 
-#### Collaborator role
+### Collaborator role
 
 This is a unique role to generalize granting access to public-viewable "talk" channels and for identifying people who have libraries, tooling, or other works that NeoForged's projects are reliant upon or uses. Any NeoForged member can grant this role to other.
 
