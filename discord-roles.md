@@ -75,7 +75,7 @@ This role is assigned for 16 hours maximum and does not require an approval.
 
 ### Collaborator role
 
-This is a unique role to generalize granting access to public-viewable "talk" channels and for identifying people who have libraries, tooling, or other works that NeoForged's projects are reliant upon or uses. Any NeoForged member can grant this role to other.
+This is a unique role to generalize granting access to public-viewable "talk" channels and for identifying people who have libraries, tooling, or other works that NeoForged's projects are reliant upon or uses. Any NeoForged member can grant this role to anyone not part of the NeoForged project.
 
 ModLauncher and Mojangstas roles are not impacted as those two are special cases to be handled separately.
 
