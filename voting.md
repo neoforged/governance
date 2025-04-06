@@ -47,3 +47,7 @@ In the event of a tie that would cause one or more members to win a seat on the 
 ## Communication to the Outside
 
 It should be announced to the public that an election process has been initiated. Other than that, in order to not compromise the integrity of the vote, public statements about the election should be kept to a minimum until the election is over.
+
+## Considerations
+
+Before the election is started, ensure that the Grace Period role is taken care of. See more [info about that here.](./inactivity-policy#grace-period-at-steering-council-voting)
