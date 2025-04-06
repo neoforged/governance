@@ -27,7 +27,7 @@ Every year, 7 months before the next planned Steering Council elections, the Ste
 
 ### Grace Period Review
 
-For Grace Period roled members that were granted a grace period by Steering Council, they will be reviewed again 1 month before Steering Council elections. If the member has not contributed enough, then the member will be removed from the team and given the Former Member role.
+For Grace Period roled members that were granted a grace period by Steering Council, they will be reviewed again 1 month before Steering Council elections. If the member has not contributed enough, then the member will be removed from the team and given the Former Member role. Steering Council will use a bot to set a reminder of which user to re-review for what team role after grace period is up.
 
 ## Other things to note
 
