@@ -31,7 +31,7 @@ For Grace Period roled members that were granted a grace period by Steering Coun
 
 ### Grace Period At Steering Council Voting
 
-By the time Steering Council elections are happening, there should be no one with any Grace Period role. If there are any, have the old Steering Council perform a re-review right then. If it was forgotten which team role(s) was on Grace Period, the re-review at this time will need to check each team role for contributions done in the last 19 months (1 yeah + 6 month grace period + 1 month after when Steering Council voting starts). The team role(s) with no contributions for the past 19 months was the one on Grace Period and thus, that role and Grace Period can be removed.
+By the time Steering Council elections are happening, there should be no one with any Grace Period role. If there are any, have the old Steering Council perform a re-review right then. If it was forgotten which team role(s) was on Grace Period, the re-review at this time will need to check each team role for contributions done in the last 19 months (1 year + 6 month grace period + 1 month after when Steering Council voting starts). The team role(s) with no contributions for the past 19 months was the one on Grace Period and thus, that role and Grace Period can be removed.
 
 ## Other things to note
 
