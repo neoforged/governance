@@ -10,7 +10,7 @@ This document aims to clarify hard policies that Maintainers have to follow as w
 
 ## Guidelines
 
-- When making a "big-deal" PR, please post a link to the PR in the NeoForge Discord's maintance-talk channel, ping the maintance role, and leave a short sentence on what the PR is about.
+- When making a "big-deal" PR, please post a link to the PR in the NeoForge Discord's maintenance-talk channel, ping the maintainer role, and leave a short sentence on what the PR is about.
 
   - A "big-deal" PR is one that has a significant impact on many systems, changes the project ecosystem, or requires significant coordination with external projects.
   
