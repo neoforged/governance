@@ -6,7 +6,7 @@ This document aims to clarify hard policies that Maintainers have to follow as w
 
 - `c` tags in 1.21+ NeoForge should be kept in sync with Fabric's `c` tags as close as possible. New `c` tags or changes to existing `c` tag should by ran by Fabric to ensure they will agree to make the same changes. `c` tags are to be a standard between loaders with Fabric being our main partner in this effort.
 
-  - Failure to meet this expectation will result in the change being undone so NeoForge matches Fabric again and the incident reviewed to understand how we failed to communicate with Fabric.
+  - Failure to meet this expectation will result in incident being reviewed to understand how we failed to communicate with Fabric. The PR in question could be reverted out of NeoForge if Fabric rejects the tag changes. Will be handled on a case-by-case basis.
 
 ## Guidelines
 
