@@ -10,6 +10,12 @@ This document aims to clarify hard policies that Maintainers have to follow as w
 
 ## Guidelines
 
+- Breaking change window for the NeoForge project will generally aim to last only 1 month after a significant Minecraft version.
+
+  - Hotfix Minecraft versions or very small Minecraft versions will not reset the breaking change window.
+
+  - This window is flexible and may be longer if there is significant breaking change PRs that need to be released for that Minecraft version but not yet ready. The 1 month timeframe is just a goal we would like to achieve but we understand it is not always possible or optimal.
+
 - When making a "big-deal" PR, please post a link to the PR in the NeoForge Discord's maintenance-talk channel, ping the maintainer role, and leave a short sentence on what the PR is about.
 
   - A "big-deal" PR is one that has a significant impact on many systems, changes the project ecosystem, or requires significant coordination with external projects.
