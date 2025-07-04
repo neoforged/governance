@@ -10,7 +10,7 @@ This document aims to clarify hard policies that Maintainers have to follow as w
 
 ## Guidelines
 
-- PRs that had requested changes from someone or another person assigned to the PR, these people should be contacted first before merging the PR to ensure they are ok with the final form of the PR and that their concerns were properly addressed.
+- PRs that had requested changes from a maintainer or has another maintainer assigned to the PR, these maintainer(s) should be contacted first before merging the PR to ensure they are ok with the final form of the PR and that their concerns were properly addressed. Along these lines, a maintainer's review should not be "dismissed" without checking with the maintainer.
 
 - Breaking change window for the NeoForge project will generally aim to last only 1 month after a significant Minecraft version.
 
