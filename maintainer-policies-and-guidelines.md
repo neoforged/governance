@@ -10,6 +10,8 @@ This document aims to clarify hard policies that Maintainers have to follow as w
 
 ## Guidelines
 
+- PRs that had requested changes from someone or another person assigned to the PR, these people should be contacted first before merging the PR to ensure they are ok with the final form of the PR and that their concerns were properly addressed.
+
 - Breaking change window for the NeoForge project will generally aim to last only 1 month after a significant Minecraft version.
 
   - Hotfix Minecraft versions or very small Minecraft versions will not reset the breaking change window.
