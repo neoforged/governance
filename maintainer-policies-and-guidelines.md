@@ -1,6 +1,6 @@
 # Maintainer Policies and Guidelines
 
-This document aims to clarify hard policies that Maintainers have to follow as well as less-enforced guidelines that are recommended to be followed. The goal is to help Maintainers understand what is expected of them and what actions should be done to reduce the chances of conflict within the Maintainer team.
+This document aims to clarify policies by which the Maintainer team operates. The goal is to help Maintainers understand what is expected of them and what actions should be done to reduce the chances of conflict within the Maintainer team.
 
 ## Policies
 
