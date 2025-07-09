@@ -57,7 +57,7 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council are the representatives of the Project, mediators for disputes within the Project members, and tiebreakers for perfectly split votes.
+The Steering Council are the representatives of the Project, final check for if a Project member is to be demoted or banned, and tiebreakers for perfectly split votes.
 
 The Council has at all times an odd number of active members, such that stalemates are not possible when making decisions.
 
@@ -67,7 +67,7 @@ The members of the Council are decided by an annual internal vote, to ensure tha
 
 The Council will act as representatives for the Project to the community and to any external entity. They will essentially act as a figurehead and a middleman to facilitate communication. 
 
-The Council also serves as a mediator for disagreements and hostilities between members of the Project with the Moderator team fails to resolve the situation. The Moderator team should be the first step for dealing with issues with reports encouraged to be done through ModMail. If the situation is serious and the team member needs to be stripped of their position on the Project or banned, Steering Council will be contacted by Moderators to decide if this course of action is to be followed through but only if majority of Steering Council votes for the punishment. Otherwise, Moderators have the ability to enact warnings and mutes as needed. Steering Council simply acts as the final decision maker for enacting harsh punishments. If the complaint is against a Steering Council member and the Moderator team has a super majority vote to strip the Steering Council member of their role or ban them, then the punishment will be enacted with no Steering Council voting happening.
+The Council also serves as a mediator for disagreements and hostilities between members of the Project with the Moderator team fails to resolve the situation. The Moderator team should be the first step for dealing with issues with reports encouraged to be done through ModMail. If the situation is serious and the Moderator team has a majority vote to ban or demote the team member from the Project, Steering Council will be contacted by Moderators to have the Steering Council majority vote among themselves to allow the punishment. Otherwise, Moderators have the ability to enact warnings and mutes as needed. Steering Council simply acts as the final decision maker for enacting harsh punishments. If the complaint is against a Steering Council member and the Moderator team has a super majority vote to strip the Steering Council member of their role or ban them, then the punishment will be enacted with no Steering Council voting happening.
 
 For the tiebreaker role where a team had a vote with a perfect EXACT 50%/50% split, Steering Council may serve as a tiebreaker to push the result of the vote one way or another. The Council itself does not have the ability to make decisions for the teams with serving as tiebreaker being the only exception.
 
