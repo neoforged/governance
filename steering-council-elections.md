@@ -1,4 +1,4 @@
-# The Voting Process of the NeoForged Project
+# The process for organising NeoForged Steering Council Elections
 
 As stated in the [Governance document](core.md), the Steering Council is to be elected annually from among the team members. This document lays out how this process is intended to work. The process is largely inspired by [the process implemented in the Python ecosystem](https://peps.python.org/pep-0013/).
 
