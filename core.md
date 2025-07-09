@@ -61,7 +61,7 @@ The Steering Council are the representatives of the Project, final check for if 
 
 The Council has at all times an odd number of active members, such that stalemates are not possible when making decisions.
 
-A member may choose to become inactive and appoint another in their place until they return.
+A member may choose to become inactive and appoint another Project team member in their place until they return.
 
 The members of the Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-voting.md](/steering-council-voting.md).
 
