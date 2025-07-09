@@ -59,11 +59,9 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 The Steering Council are the representatives of the Project, final check for if a Project member is to be demoted or banned, and tiebreakers for perfectly split votes.
 
-The Council has at all times an odd number of active members, such that stalemates are not possible when making decisions.
+The Council has at all times an odd number of active members, such that stalemates are not possible when making decisions. The members of the Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-voting.md](/steering-council-voting.md).
 
-A member may choose to become inactive and appoint another Project team member in their place until they return.
-
-The members of the Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-voting.md](/steering-council-voting.md).
+A member may choose to become inactive and appoint another Project team member in their place until they return. If a Steering Council member is not able to be reached and there is an important time-sensitive Steering Council vote that needs to be performed, an emergency Steering Council election will be held that runs for 48 hours. The newly elected member(s) will now act as the Council member in question until their return or their term expires.
 
 The Council will act as representatives for the Project to the community and to any external entity. They will essentially act as a figurehead and a middleman to facilitate communication. 
 
