@@ -57,23 +57,17 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council is the overall management and oversight of the Project.
+The Steering Council are the representatives of the Project, final check for if a Project member is to be demoted or banned, and tiebreakers for perfectly split votes.
 
-They “steer” the project to keep it aligned with the long-term vision, hence its secondary name of Vision Team.
+The Council has at all times an odd number of active members, such that stalemates are not possible when making decisions. The members of the Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-voting.md](/steering-council-voting.md).
 
-The Council has at all times an odd number of active members, such that stalemates are not possible.
+A member may choose to become inactive and appoint another Project team member in their place until they return. If a Steering Council member is not able to be reached and there is an important time-sensitive Steering Council vote that needs to be performed, an emergency Steering Council election will be held in accordance with [/steering-council-voting.md](/steering-council-voting.md). The newly elected member(s) will now act as the Council member in question until their return or their term expires.
 
-A member may choose to become inactive and appoint another in their place until they return.
+The Council will act as representatives for the Project to the community and to any external entity. They will essentially act as a figurehead and a middleman to facilitate communication. 
 
-At least one member of the Council is promoted from other teams via an annual internal vote, to ensure that the Council always has fresh insight from a new team member with a different view on situations, and thus does not stagnate over time.
+The Council also serves as a final stopgap for when the Moderation team has a majority vote to ban or demote a team member from the Project. When this happens, Steering Council will conduct a majority vote among themselves to see if they will allow the punishment to go through. When there is an interteam dispute or rule violation by a team member, the Moderator team should be the first step for dealing with the issue (reports to ModMail are to be encouraged). The Moderator team have the ability to enact warnings and mutes as needed to team members but demotions and bans must be ran through Steering Council (and ideally discussed with Steering Council first to ensure there is no other way to mediate the issue). If the complaint is against a Steering Council member and the Moderator team has a super majority vote to strip the Steering Council member of their role or ban them, then the punishment will be enacted with no Steering Council voting happening.
 
-Once a year, an internal voting process inspired by [the process implemented in the Python ecosystem](https://peps.python.org/pep-0013/) will determine the members that will be promoted to the Steering Council via the [Helios voting system](https://heliosvoting.org/). All three members of the Council will be elected, at least one of which must be a member that has not been on the Council in the previous term.
-
-The Council also serves double duty as a mediator for disagreements between other teams. These shall be resolved by discussion, rather than by unanimous applications of the rules, so this is not in the purview of this document.
-
-However, the Council does not have all-encompassing powers. They are the avenue of last resort, and the vast majority of decisions should be made by the team in charge, not by the Steering Council.
-
-The Council has these powers to resolve the 1% of exceptional situations, not the 99%.
+For the tiebreaker role where a team had a vote with a perfect EXACT 50%/50% split, Steering Council may serve as a tiebreaker to push the result of the vote one way or another. The Council itself does not have the ability to make decisions for the teams with serving as tiebreaker being the only exception.
 
 #### Maintainers
 
