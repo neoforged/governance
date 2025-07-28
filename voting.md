@@ -16,6 +16,6 @@ For a decision to be taken by vote, a *simple* majority of the votes cast is req
 
 In cases involving multiple-choice polls, if no option does not meet the requirements set above, the two choices with the most votes will be put to a run-off vote.
 
-A vote that ends in a tie (i.e., the cast votes have been *perfectly* distributed to each option) or one in which no option has met the majority requirement is considered **fail**. In this case, the status quo will be preserved. Failed votes may be re-attempted after 30 days.
+A vote that ends in a tie (i.e., the cast votes have been *perfectly* distributed to each option) or one in which no option has met the majority requirement is considered **failed**. In this case, the status quo will be preserved. Failed votes may be re-attempted after 30 days.
 
 Decisions made by vote cannot be revisited after less than 90 days from their vote.
