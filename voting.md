@@ -7,11 +7,13 @@ The votes take the form of Discord polls, sent to one of the following channels:
 - `#moderation-private` for votes concerning the Moderators team.
 Any accompanying contextual information must be sent in messages directly below the poll, alongside a ping of the role of the team in question.
 
-Voting takes place in the 24 hours following the creation of the poll, unless the Steering Council agrees to lift waiting requirements for situations that require prompt resolutions. If this is the case, the Council must clearly explain the context that lead to the decision of shortening the vote's duration.
+Voting takes place in the 24 hours following the creation of the poll. Votes that are not time-sensitive may have a longer voting period, but it may not exceed one week.
 
-For a decision to be taken by vote, a *simple* majority of the votes cast is required - that is, more than half of the votes cast must be in favour of the final decision. If the vote ends in a tie (no option received more than half of the votes), a majority of the members of the Steering Council will cast a tie breaking vote.
-- As an exception to the rule above, votes that seek to overrule a previous decision require a *qualified* majority - i.e., two thirds of the votes cast have to be in favour.
+For a decision to be taken by vote, a *simple* majority of the votes cast is required - that is, strictly more than half of the votes cast must be in favour of the final decision.
+- As an exception to the rule above, votes that seek to overrule a previous decision require a *qualified* majority - i.e., at least two thirds of the votes cast have to be in favour.
 
 In cases involving multiple-choice polls, if no option does not meet the requirements set above, the two choices with the most votes will be put to a run-off vote.
+
+A vote that ends in a tie (i.e., the cast votes have been *perfectly* distributed to each option) or one in which no option has met the majority requirement is considered **fail**. In this case, the status quo will be preserved. Failed votes may be re-attempted after 30 days.
 
 Decisions made by vote cannot be revisited after less than 90 days from their vote.
