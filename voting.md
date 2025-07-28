@@ -4,7 +4,8 @@ The votes take the form of Discord polls, sent to one of the following channels:
 - `#project-talk` for votes concerning all teams of the Project;
 - `#maintenance-talk` for votes concerning the Maintainers team;
 - `#internal-private` for votes that need to be held privately or concerning internal team structures;
-- `#moderation-private` for votes concerning the Moderators team.  
+- `#moderation-private` for votes concerning the Moderators team.
+
 Any accompanying contextual information must be sent in messages next to the poll, alongside a ping of the role of the team in question. It is recommended that contextual information is sent directly below the poll, to increase discoverability.  
 Any further discussion regarding the vote should be, to the greatest extent possible, contained in a dedicated thread.
 
