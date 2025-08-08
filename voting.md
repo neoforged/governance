@@ -14,7 +14,7 @@ Voting takes place in the 24 hours following the creation of the poll. Votes tha
 For a decision to be taken by vote, a *simple* majority of the votes cast is required - that is, strictly more than half of the votes cast must be in favour of the final decision.
 - As an exception to the rule above, votes that seek to overrule a previous decision require a *qualified* majority - i.e., at least two thirds of the votes cast have to be in favour.
 
-In cases involving polls with 3 or more options, if no option meets the requirements set above, the two choices with the most votes will be put to a run-off vote.
+In cases involving polls with 3 or more options, if no option meets the requirements set above, the two choices with the most votes will be put to a run-off vote. If the 2nd place is tied, all of the tied choices will participate in the run-off, and if the run-off vote has the same outcome, the vote will be considered **failed**.
 
 A vote that ends in a tie (i.e., the cast votes have been *perfectly* distributed to each option) or one in which no option has met the majority requirement is considered **failed**. In this case, the status quo will be preserved. Failed votes may be re-attempted after 30 days.
 
