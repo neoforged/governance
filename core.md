@@ -65,6 +65,8 @@ The Steering Council has an odd number of active members at all times, such that
 
 A member may choose to become inactive and appoint another Project team member in their place until they return. If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [/steering-council-voting.md](/steering-council-voting.md). The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
 
+The secondary role of the Steering Council is to apply the Inactivity Policy periodically. Full details on the policy are in the [/inactivity-policy.md](/inactivity-policy.md).
+
 #### Maintainers
 
 The Maintainers team consists of all project developers who have push access or technical rights (Write permissions to a Project's GitHub repository, or access to the Project's servers) to the project's repositories or infrastructure.
