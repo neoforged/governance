@@ -48,6 +48,12 @@ In the event of a tie that would cause one or more members to win a seat on the 
 
 It should be announced to the public that an election process has been initiated. Other than that, in order to not compromise the integrity of the vote, public statements about the election should be kept to a minimum until the election is over.
 
+## Replacements and Emergency Elections
+
+A Steering Council member may choose to become inactive and appoint another Project team member in their place until they return or their term expires.
+
+If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [The Election Process](#the-election-process) section with the only differences being, nomination is now 24 hours, a Steering Council member cannot nominate themselves as they are already on Steering Council, and the voting process is also 24 hours. The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
+
 ## Considerations
 
 Before the election is started, ensure that the Grace Period role is taken care of. See more [info about that here.](./inactivity-policy#grace-period-at-steering-council-voting)
