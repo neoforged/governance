@@ -57,9 +57,9 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council ensures solid team communication by making sure significant work, PRs, rule changes, or decision are backed by a team's vote that is outlined in [/voting.md](/voting.md). The result of that team's vote will be then enforced, whether it be the Maintainer team, Moderator team, or any other. While any team member can call for team votes, the Steering Council acts as a dedicated monitoring position to watch for anything that could slip by without a vote.
+The Steering Council ensures that members of a Team are in agreement regarding topics under the Team's purview. To that end, the Council can call for a vote if there is an on-going major dispute about a topic within the Team.
 
-In other words, the members of the Steering Council does not give out orders or demands. They cannot give orders to team members of what to do. Instead, if a decision or action comes up and a majority of the Steering Council members believes it is significant, they can say that the situation needs to be communicated to the relevant team and put up a vote for that team.
+In other words, when the Council is made aware of a situation, and if it decides (after a vote between the members of the Council) that the situation warrants the involvement of an entire Team, they can trigger a vote as described by the [voting rules](./voting.md). The sole responsibility of the Council is to enforce the outcome of the voting process. They cannot influence the vote but council members part of the relevant team can still participate in the voting process itself.
 
 The Steering Council has an odd number of active members at all times, such that stalemates are not possible. The members of the Steering Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-elections.md](/steering-council-elections.md).
 
