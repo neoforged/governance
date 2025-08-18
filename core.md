@@ -63,7 +63,7 @@ In other words, the members of the Steering Council does not give out orders or 
 
 The Steering Council has an odd number of active members at all times, such that stalemates are not possible. The members of the Steering Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-elections.md](/steering-council-elections.md).
 
-A member may choose to become inactive and appoint another Project team member in their place until they return. If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [/steering-council-elections.md](/steering-council-elections.md). The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
+A member may choose to become inactive and appoint another Project team member in their place until they return, or their term expires, whichever is sooner. If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [/steering-council-elections.md](/steering-council-elections.md). The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
 
 The secondary role of the Steering Council is to apply the Inactivity Policy periodically. Full details on the policy are in the [/inactivity-policy.md](/inactivity-policy.md).
 

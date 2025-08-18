@@ -10,9 +10,9 @@ At least one new member should be elected to the Steering Council in each year, 
 
 ### Election Officers
 
-Before the election, election officers are determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. There should be at least three election officers, which should not be members of the Steering Council prior to the election.
+Before the election, one election officer is determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. If no one volunteers, a NeoForged team poll is done where everyone can submit a name to be the election officer and whoever gets the most nomination, is the officer. In the case of a tie, a candidate will randomly be chosen using a random number generator. then The election officer should not be a member of the Steering Council prior to the election.
 
-The election officers' job is to organize and supervise the election process. Additionally, they must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
+The election officer's job is to organize and supervise the election process. Additionally, they must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
 
 ## The Election Process
 
