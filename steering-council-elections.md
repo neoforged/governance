@@ -52,7 +52,13 @@ It should be announced to the public that an election process has been initiated
 
 A Steering Council member may choose to become inactive and appoint another Project team member in their place until they return or their term expires, whichever is sooner.
 
-If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [The Election Process](#the-election-process) section with the only differences being, nomination is now 24 hours, a Steering Council member cannot nominate themselves as they are already on Steering Council, and the voting process is also 24 hours. The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
+If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [The Election Process](#the-election-process) section with the following differences:
+- the nomination process lasts for 24 hours;
+- Team Members may only nominate themselves;
+- sitting Steering Council members cannot be nominated;
+- the voting process lasts for 24 hours.
+
+The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
 
 ## Considerations
 
