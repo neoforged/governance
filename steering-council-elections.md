@@ -58,7 +58,7 @@ If a Steering Council member cannot be reached and there is an important time-se
 - sitting Steering Council members cannot be nominated;
 - the voting process lasts for 24 hours.
 
-The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) return or their term expires.
+The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) returns or their term expires.
 
 ## Considerations
 
