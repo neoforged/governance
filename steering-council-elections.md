@@ -10,9 +10,9 @@ At least one new member should be elected to the Steering Council in each year, 
 
 ### Election Officers
 
-Before the election, election officers are determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. There should be at least three election officers, which should not be members of the Steering Council prior to the election.
+Before the election, one election officer is determined from among the team and internally announced as such. They are assigned by the Steering Council, ideally after volunteering. If no one volunteers, a NeoForged team poll will be held in which every member can nominate an election officer. The person with the most nominations will be the officer unless the person explicitly declines the role. In the case of a tie, a candidate will randomly be chosen using a random number generator. The election officer should not be a member of the Steering Council prior to the election and the election officer cannot be a candidate of the current election either.
 
-The election officers' job is to organize and supervise the election process. Additionally, they must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
+The election officer's job is to organize and supervise the election process. Additionally, they must also announce a timeframe for the election process beforehand. Suggestions for the duration of the individual phases of the election are stated below.
 
 ## The Election Process
 
@@ -47,6 +47,18 @@ In the event of a tie that would cause one or more members to win a seat on the 
 ## Communication to the Outside
 
 It should be announced to the public that an election process has been initiated. Other than that, in order to not compromise the integrity of the vote, public statements about the election should be kept to a minimum until the election is over.
+
+## Replacements and Emergency Elections
+
+A Steering Council member may choose to become inactive and appoint another Project team member in their place until they return or their term expires, whichever is sooner.
+
+If a Steering Council member cannot be reached and there is an important time-sensitive Steering Council vote, an emergency Steering Council election will be held in accordance with [The Election Process](#the-election-process) section with the following differences:
+- the nomination process lasts for 24 hours;
+- Team Members may only nominate themselves;
+- sitting Steering Council members cannot be nominated;
+- the voting process lasts for 24 hours.
+
+The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) returns or their term expires.
 
 ## Considerations
 
