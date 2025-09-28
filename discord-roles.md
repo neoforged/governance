@@ -6,7 +6,7 @@ The ownership of the Discord is held by a special account: `@neoforged.admin`. I
 
 ## Roles
 | Name                   | Members                            | Description                                                                                          | Hoisted            | Color               | Icon                               |
-|------------------------|------------------------------------|--:-:-------------------------------------------------------------------------------------------------|--:-:---------------|--:-:----------------|--:-:-------------------------------|
+|------------------------|------------------------------------|:----------------------------------------------------------------------------------------------------:|:------------------:|:-------------------:|:----------------------------------:|
 | Server Owners          | Admin account                      | Server owner, hoisted for visibility                                                                 | :white_check_mark: | Bright Red          | Hammer                             |
 | PIM Granters           | PIM Bot                            | PIM granters. Can grant privileged roles to team members                                             | :x:                | None                | None                               |
 | Server Manager         | PIM                                | Has Manage Server/Admin permission                                                                   | :x:                | None                | None                               |
