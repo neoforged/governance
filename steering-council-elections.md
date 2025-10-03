@@ -28,7 +28,7 @@ This phase should run for approximately one week, with the timeframe announced b
 
 Sitting members of the Steering Council are expected to announce their intent to re-run, or the lack thereof, prior to the nomination phase.
 
-After a nomination has been received, the corresponding election officer should send a message to the nominee, confirming that they accept the nomination. If a nominee does not respond within the set timeframe, it will be assumed that they accepted the nomination.
+After a nomination has been received, the corresponding election officer should send a message to the nominee, confirming that they accept the nomination. If a nominee does not respond within the set timeframe, it will be assumed that they do not accept the nomation.
 
 ### Phase Two: Voting
 
