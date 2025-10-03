@@ -60,6 +60,10 @@ If a Steering Council member cannot be reached and there is an important time-se
 
 The newly elected member(s) will now act as the Steering Council member in question until the original Steering Council member(s) returns or their term expires.
 
+## Term Limits
+
+Steering Council members cannot serve for more than two consecutive terms.
+
 ## Considerations
 
 Before the election is started, ensure that the Grace Period role is taken care of. See more [info about that here.](./inactivity-policy#grace-period-at-steering-council-voting)
