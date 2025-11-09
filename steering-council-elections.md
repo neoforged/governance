@@ -62,4 +62,4 @@ The newly elected member(s) will now act as the Steering Council member in quest
 
 ## Considerations
 
-Before the election is started, ensure that the Grace Period role is taken care of. See more [info about that here.](./inactivity-policy#grace-period-at-steering-council-voting)
+Before the election is started, ensure that the Grace Period role is taken care of. See more [info about that here.](./inactivity-policy.md#grace-period-at-steering-council-voting)
