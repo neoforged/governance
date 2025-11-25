@@ -57,11 +57,11 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council has three main responsibilities, broken into five roles.
+The Steering Council is a Team with three main responsibilities.
 
-The first responsibility of the Steering Council is to arbitrate, mediate, and defuse on-going situations or major disputes about a topic within the Team. More specifically, the Council is responsible for identifying disputes that may arise between Team members and try to provide amicable resolutions, or if the situation warrants the involvement of an entire Team, they can adjudicate by triggering a vote as described by the [voting rules](./voting.md). They cannot influence the vote but Council members part of the relevant Team can still participate in the voting process itself. If such arbitration occurs, then the Council is responsible for enforcing the outcome of the vote. If other organizations are involved, or the dispute can be classified as 'drama', the Council is responsible for mitigating the situation instead of triggering a vote.
+The first responsibility of the Steering Council is the defuse, mediate, and arbitrate on-going situations or major disputes within the Team. Once a dispute is recognized, the Council can first attempt to defuse the situation, allowing for a proper discussion on the issue at hand. Afterwards, the Council can mediate between the members of the Team, trying to find an amicable resolution either through some potential comprise. If the members of the Team are unable to reach a resolution, then the Council may begin the arbitration process, triggering a vote as described by the [voting rules](./voting.md). After the outcome  is decided, if the parties involved still attempt to dispute, the Council can step in to enforce the outcome of the voting process. The Council may also step in to defuse disputes between Team members and non-Team members if the Team members are unable to or part of the dispute themselves.
 
-The second resposibility of the Steering Council is to represent the Organization during official events, like the NeoForged Annual Parlay. Additionally, members of the Council are considered points of contact for others wishing to interact with the Organization, such as interviews.
+The second responsibility of the Steering Council is to act as representatives for the Organization. The Council members handle interactions between the general public during official events, or those wishing to contact the Organization itself.
 
 The third responsibility of the Steering Council is to apply the Inactivity Policy periodically. Full details on the policy are in the [/inactivity-policy.md](/inactivity-policy.md).
 
