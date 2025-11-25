@@ -1,6 +1,6 @@
 # Governance of the NeoForged project
 
-The NeoForged project is split between [GitHub](https://github.com/NeoForged) and [Discord](https://discord.neoforged.net). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the Minecraft game.
+The NeoForged project (the "Organization") is split between [GitHub](https://github.com/NeoForged) and [Discord](https://discord.neoforged.net). It is a community of volunteers, maintaining a free and open source ecosystem of modifications to the Minecraft game.
 
 All contributors and team members are here for fun - our goal is to provide joy to the community, and to ourselves.
 
@@ -57,15 +57,17 @@ You may [apply to join some teams](https://links.neoforged.net/apply), but some 
 
 #### Steering Council
 
-The Steering Council ensures that members of a Team are in agreement regarding topics under the Team's purview. To that end, the Council can call for a vote if there is an on-going major dispute about a topic within the Team.
+The Steering Council is a Team with three main responsibilities.
 
-In other words, when the Council is made aware of a situation, and if it decides (after a vote between the members of the Council) that the situation warrants the involvement of an entire Team, they can trigger a vote as described by the [voting rules](./voting.md). The sole responsibility of the Council is to enforce the outcome of the voting process. They cannot influence the vote but council members part of the relevant team can still participate in the voting process itself.
+The first responsibility of the Steering Council is the defuse, mediate, and arbitrate on-going situations or major disputes within the Team. Once a dispute is recognized, the Council can first attempt to defuse the situation, allowing for a proper discussion on the issue at hand. Afterwards, the Council can mediate between the members of the Team, trying to find an amicable resolution either through some potential comprise. If the members of the Team are unable to reach a resolution, then the Council may begin the arbitration process, triggering a vote as described by the [voting rules](./voting.md). After the outcome  is decided, if the parties involved still attempt to dispute, the Council can step in to enforce the outcome of the voting process. The Council may also step in to defuse disputes between Team members and non-Team members if the Team members are unable to or part of the dispute themselves.
+
+The second responsibility of the Steering Council is to act as representatives for the Organization. The Council members handle interactions between the general public during official events, or those wishing to contact the Organization itself.
+
+The third responsibility of the Steering Council is to apply the Inactivity Policy periodically. Full details on the policy are in the [/inactivity-policy.md](/inactivity-policy.md).
 
 The Steering Council has an odd number of active members at all times, such that stalemates are not possible. The members of the Steering Council are decided by an annual internal vote to ensure fairness and cycling of council members over time. Details on the Steering Council voting process can be found at [/steering-council-elections.md](/steering-council-elections.md).
 
 A member may choose to become inactive and appoint another Project team member in their place until they return, or their term expires, whichever is sooner. If a Steering Council member cannot be reached and a replacement is desired, a Steering Council election will be held in accordance with [/steering-council-elections.md](/steering-council-elections.md). The newly elected member(s) will now replace the Steering Council member in question until the next yearly election.
-
-The secondary role of the Steering Council is to apply the Inactivity Policy periodically. Full details on the policy are in the [/inactivity-policy.md](/inactivity-policy.md).
 
 #### Maintainers
 
