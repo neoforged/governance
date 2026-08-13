@@ -20,7 +20,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.1. The removal call must include the name of the triggering Member, the Member under removal, a reason (or multiple reasons) for the removal, and either the specific Team being removed or the Neo Team.
 
-    1.2. The removal call must be in a space accessible and visible to all Members of the Neo Team. It may be, but is suggested not to be, in a public space accessible to the general community. It should include a mention or notification to the members of the Neo Team.
+    1.2. The removal call must be in a space accessible and visible to all Members of the Neo Team. It may be, but is suggested not to be, in a public space accessible to the general community. It should include a mention or notification to the Members of the Neo Team.
 
     1.3. A removal call may not be made for a Member who was previously subject to removal proceedings within the last 180 days.
 
@@ -46,7 +46,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 2. A discussion period of 7 days shall be held, during which Members may discuss the merits of the removal proceedings.
 
-    2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
+    2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual Members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
 
     2.2. The discussion period may not be extended or reduced except with the unanimous consent of all Members, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment.
 
@@ -80,7 +80,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 4. If the vote resulted in the removal of the Member under removal, the removal shall be done as soon as possible.
 
-    4.1. If the Member under removal is removed from a Team (but not the Neo Team), they shall be stripped of their membership accordingly to that Team, and this shall not affect their membership in any other team.
+    4.1. If the Member under removal is removed from a Team (but not the Neo Team), they shall be stripped of their membership accordingly to that Team, and this shall not affect their membership in any other Team.
 
     4.2. If the Member under removal is removed from the Neo Team, they shall be stripped of their membership on all Teams and on the Neo Team, which in effect shall turn them back into a regular member of the community.
 
