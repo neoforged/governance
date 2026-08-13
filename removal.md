@@ -15,10 +15,11 @@ The following policy applies to the removal of members of the NeoForged Team by 
 9. The "Member under removal" is the Member who is the target of a removal call.
 10. The "removal proceedings" refers to the discussion, voting, and other attached processes related to the removal of a Member, as initiated by a removal call.
 11. The "removal discussion space" is the private space created for facilitating the removal proceedings, as defined below.
+12. A "private space" is a channel or other communication space which is only accessible to Members of the Neo Team.
 
 ## B. Initiation
 
-1. A Member may initiate the removal of another Member by calling for a vote in a private.
+1. A Member may initiate the removal of another Member by calling for a vote in a private space.
 
     1.1. The removal call must include the name of the initiating Member, the Member under removal, a reason (or multiple reasons) for the removal, and either the specific Team being removed or the Neo Team.
 
