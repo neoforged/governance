@@ -70,9 +70,9 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 2. After the vote is finished, the votes shall be tallied and published to all Members in the removal proceedings space.
 
-    2.1. If less than half of the Members cast a vote, the vote is invalid, the Member under removal is retained, and the removal proceedings end.
+    2.1. If less than half of all the Members cast a vote, the vote is invalid due to a lack of quorum, the Member under removal is retained, and the removal proceedings end.
 
-    2.2. If there are more than two-thirds of votes cast in favor of "Yes", the Member under removal is removed effective immediately, and the removal proceedings end.
+    2.2. If there are two-thirds or more of votes cast in favor of "Yes", the Member under removal is removed effective immediately, and the removal proceedings end.
 
     2.3. Otherwise, the Member under removal is retained, and the removal proceedings end.
 
