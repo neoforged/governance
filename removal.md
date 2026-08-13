@@ -38,7 +38,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 ## C. Discussion
 
-1. Once a removal call is made and seconded, a removal proceedings space  shall be created as a private space including all Members, for the sole purpose of the removal proceedings.
+1. Once a removal call is made and seconded, a removal proceedings space shall be created as a private space including all Members, for the sole purpose of the removal proceedings.
 
     1.1. No other space, whether private or public, shall be used for discussing the removal proceedings.
 
