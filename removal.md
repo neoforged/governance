@@ -46,7 +46,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 2. A discussion period of 7 days shall be held, during which Members may discuss the merits of the removal proceedings.
 
-    2.1. In exigent circumstances, a Moderator may impose order on the channel by initiating slow mode or temporarily muting individual members for disorderly conduct. However, such measures must be strictly temporarily and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
+    2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
 
     2.2. The discussion period may not be extended or reduced except with the unanimous agreement of all Members, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment.
 
