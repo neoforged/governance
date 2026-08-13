@@ -38,23 +38,23 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 ## C. Discussion
 
-1. Once a removal call is made and seconded, a removal proceedings space shall be created as a private space including all Members, for the sole purpose of the removal proceedings.
+1. Once a removal call is made and seconded, a removal proceedings space shall be created as a private space including all Members of the Neo Team, for the sole purpose of the removal proceedings.
 
     1.1. No other space, whether private or public, shall be used for discussing the removal proceedings.
 
-    1.2. Upon creation of the removal proceedings space, all Members shall be notified by mention or other method of the existence of the removal proceedings and of the removal proceedings space.
+    1.2. Upon creation of the removal proceedings space, all Members of the Neo Team shall be notified by mention or other method of the existence of the removal proceedings and of the removal proceedings space.
 
 2. A discussion period of 7 days shall be held, during which Members may discuss the merits of the removal proceedings.
 
     2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual Members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
 
-    2.2. The discussion period may not be extended or reduced except with the unanimous consent of all Members, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment. Only one vote to extend the time and one vote to reduce the time shall be allowed.
+    2.2. The discussion period may not be extended or reduced except with the unanimous consent of all Members of the Neo Team, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment. Only one vote to extend the time and one vote to reduce the time shall be allowed.
 
     2.3. If the discussion period has ended while a vote is ongoing to extend the discussion period according to the previous paragraph (2.2), the discussion period shall be considered as still active and not yet ended until that vote is finished.
 
 ## D. Voting
 
-1. Once the discussion period has ended, a vote shall be held for 7 days, which shall be open to all Members _except_ for the Member being removed.
+1. Once the discussion period has ended, a vote shall be held for 7 days, which shall be open to all Members of the Neo Team _except_ for the Member being removed.
 
     1.1. The vote shall be a secret ballot, with the question _"Shall (name) be removed as a member of the (team name)?"_, and the options _"Yes"_ and _"No"_.
 
@@ -68,9 +68,9 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.6. The responsibility of handling the voting process and platform shall be with [the election officers](/steering-council-elections.md#election-officers) of the immediately previous Steering Council election or, if they are unable to do so, the Steering Council. In no case shall this responsibility be held by the Member under removal.
 
-2. After the vote is finished, the votes shall be tallied and published to all Members in the removal proceedings space.
+2. After the vote is finished, the votes shall be tallied and published to all Members of the Neo Team in the removal proceedings space.
 
-    2.1. If less than half of all the Members cast a vote, the vote is invalid due to a lack of quorum, the Member under removal is retained, and the removal proceedings end.
+    2.1. If less than half of all Members of the Neo Team cast a vote, the vote is invalid due to a lack of quorum, the Member under removal is retained, and the removal proceedings end.
 
     2.2. If there are two-thirds or more of votes cast in favor of "Yes", the Member under removal is removed effective immediately, and the removal proceedings end.
 
