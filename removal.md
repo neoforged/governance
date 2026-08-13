@@ -48,7 +48,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
 
-    2.2. The discussion period may not be extended or reduced except with the unanimous agreement of all Members, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment.
+    2.2. The discussion period may not be extended or reduced except with the unanimous consent of all Members, as expressed in a vote at least 24 hours long. If any Member votes negatively at any time, the vote is deemed to have failed at that moment.
 
     2.3. If the discussion period has ended while a vote is ongoing to extend the discussion period according to the previous paragraph (2.2), the discussion period shall be considered as still active and not yet ended until that vote is finished.
 
