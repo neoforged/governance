@@ -34,7 +34,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     2.3. An example, though it is not required to conform to this exactly: _"I second the call for removal of (name)."_
 
-1. The initiating Member shall be mainly responsible for shepherding the proceedings, keeping track of the periods and votes, and reminding Members of the ongoing removal proceedings. Other Members may share in this responsibility as necessary to ensure the removal proceedings continue until completion.
+1. The initiating Member shall be mainly responsible for shepherding the proceedings, keeping track of the periods, and reminding Members of the ongoing removal proceedings. Other Members may share in this responsibility as necessary to ensure the removal proceedings continue until completion.
 
 ## C. Discussion
 
@@ -66,7 +66,9 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.5. If technical difficulty arises in the use of the platform while the vote is ongoing, it may be discarded and a new vote be initiated. However, a vote once concluded may not be discarded.
 
-2. After the vote is finished, the votes shall be tallied by the initiating Member and published to all Members in the removal proceedings space.
+    1.6. The responsibility of handling the voting process and platform shall be with [the election officers](/steering-council-elections.md#election-officers) of the immediately previous Steering Council election or, if they are unable to do so, the Steering Council. In no case shall this responsibility be held by the Member under removal.
+
+2. After the vote is finished, the votes shall be tallied and published to all Members in the removal proceedings space.
 
     2.1. If less than half of the Members cast a vote, the vote is invalid, the Member under removal is retained, and the removal proceedings end.
 
