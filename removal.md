@@ -8,7 +8,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 1. "Maintainers" or "Maintainer team" refers to the Maintainers team defined in [the core governance document](/core.md).
 1. "Moderators" or "Moderator team" refers to the Moderators team defined in the [the core governance document](/core.md).
 1. "Steering Council" refers to the Steering Council defined in the [the core governance document](/core.md).
-1. A "Team" when unqualified refers to either the Maintainers, the Moderators, or the Steering Council.
+1. A "Team" when unqualified, refers to either the Maintainers, the Moderators, or the Steering Council.
 1. A "Member" is a person who is part of the NeoForged Team or one of the Teams, as the context may determine.
 1. A "removal call" is the initial message by a Member to initiate the removal of another Member, as defined below.
 1. The "removal proceedings" refers to the discussion, voting, and other attached processes related to the removal of a Member, as initiated by a removal call.
@@ -43,8 +43,6 @@ The following policy applies to the removal of members of the NeoForged Team by 
     1.1. No other space, whether private or public, shall be used for discussing the removal proceedings.
 
     1.2. Upon creation of the removal proceedings space, all Members shall be notified by mention or other method of the existence of the removal proceedings and of the removal proceedings space.
-
-    1.3. Members may converse with each other in private Direct Messages, but they are encouraged to use the removal proceedings space as much as possible for wider discussion among all Members.
 
 2. A discussion period of 7 days shall be held, during which Members may discuss the merits of the removal proceedings.
 
