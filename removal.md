@@ -11,12 +11,14 @@ The following policy applies to the removal of members of the NeoForged Team by 
 5. A "Team" when unqualified, refers to either the Maintainers, the Moderators, or the Steering Council.
 6. A "Member" is a person who is part of the NeoForged Team or one of the Teams, as the context may determine.
 7. A "removal call" is the initial message by a Member to initiate the removal of another Member, as defined below.
-8. The "removal proceedings" refers to the discussion, voting, and other attached processes related to the removal of a Member, as initiated by a removal call.
-9. The "removal discussion space" is the private space created for facilitating the removal proceedings, as defined below.
+8. The "initiating Member" is the Member who made the removal call.
+9. The "Member under removal" is the Member who is the target of a removal call.
+10. The "removal proceedings" refers to the discussion, voting, and other attached processes related to the removal of a Member, as initiated by a removal call.
+11. The "removal discussion space" is the private space created for facilitating the removal proceedings, as defined below.
 
 ## B. Initiation
 
-1. A Member (the initiating Member) may initiate the removal of another Member (the Member under removal) by calling for a vote in a private.
+1. A Member may initiate the removal of another Member by calling for a vote in a private.
 
     1.1. The removal call must include the name of the initiating Member, the Member under removal, a reason (or multiple reasons) for the removal, and either the specific Team being removed or the Neo Team.
 
