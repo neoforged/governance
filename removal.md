@@ -25,7 +25,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.2. The removal call must be in a space accessible and visible to all Members of the Neo Team. It may be, but is suggested not to be, in a public space accessible to the general community. It should include a mention or notification to the Members of the Neo Team.
 
-    1.3. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 180 days.
+    1.3. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 30 days.
 
     1.4. An example, though it is not required to conform to this exactly: _"I call for the removal of (name) from the (team name) for the following reasons: (reasons)"_.
 
