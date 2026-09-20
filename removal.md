@@ -47,7 +47,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.2. Upon creation of the removal proceedings space, all Members of the Neo Team shall be notified by mention or other method of the existence of the removal proceedings and of the removal proceedings space.
 
-2. A discussion period of 7 days shall be held, during which Members may discuss the merits of the removal proceedings.
+2. A discussion period of 7 days shall be held, during which Members (including the Member under removal) may discuss the merits of the removal proceedings.
 
     2.1. In exigent circumstances, a Member with the appropriate permissions may impose order on the channel by initiating slow mode or temporarily muting individual Members for disorderly conduct. However, such measures must be strictly temporarily, communicated immediately on their imposition, and lifted as soon as it is practicable to do so, in order to allow for free discussion among Members.
 
