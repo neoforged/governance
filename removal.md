@@ -57,7 +57,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 ## D. Voting
 
-1. Once the discussion period has ended, a vote shall be held for 7 days, which shall be open to all Members of the Neo Team _except_ for the Member being removed.
+1. Once the discussion period has ended, a vote shall be held for 7 days, which shall be open to all Members of the Neo Team _except_ for the Member under removal.
 
     1.1. The vote shall be a secret ballot, with the question _"Shall (name) be removed as a member of the (team name)?"_, and the options _"Yes"_ and _"No"_.
 
