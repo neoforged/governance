@@ -27,7 +27,9 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.3. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 30 days.
 
-    1.4. An example, though it is not required to conform to this exactly: _"I call for the removal of (name) from the (team name) for the following reasons: (reasons)"_.
+    1.4. A removal call against a Member may neither be made nor seconded by the initiating Member of the immediately previous removal call against that Member, or by the Member who seconded the immediately previous removal call against that Member.
+
+    1.5. An example, though it is not required to conform to this exactly: _"I call for the removal of (name) from the (team name) for the following reasons: (reasons)"_.
 
 2. Another Member, different from either the initiating Member or the Member under removal, must second the removal call by stating the same within the same space as the removal call.
 
