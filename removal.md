@@ -65,7 +65,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.1. The vote shall be a secret ballot, with the question _"Shall (name) be removed as a member of the (team name)?"_, and the options _"Yes"_ and _"No"_.
 
-    1.2. The vote may be held on a platform which offers secret ballots individualized to each Member, such as [Helios Voting](https://vote.heliosvoting.org/), the platform used in the previous Steering Council elections, or other equivalent platforms. It is preferred that the platform show who has voted, but must not show what their vote was.
+    1.2. The vote may be held on a platform which offers secret ballots individualized to each Member, such as [Helios Voting](https://vote.heliosvoting.org/), the platform used in the previous Steering Council elections, or other equivalent platforms. The platform must show who is eligible to vote or who has voted, but must not show what their vote was.
 
     1.3. The voting period may not be extended or reduced.
 
