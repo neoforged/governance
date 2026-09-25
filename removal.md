@@ -29,9 +29,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.4. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 30 days.
 
-    1.5. A removal call against a Member may neither be made nor seconded by the initiating Member of the immediately previous removal call against that Member, or by the Member who seconded the immediately previous removal call against that Member.    
-
-    1.6. A removal call may not be made while there are existing removal proceedings underway.
+    1.5. A removal call may not be made while there are existing removal proceedings underway.
 
 2. Another Member, different from either the initiating Member or the Member under removal, must second the removal call by stating the same within the same space as the removal call.
     
@@ -41,7 +39,9 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     2.3. The seconding must be explicitly made, and may not be taken as implied by further discussion on the removal call.
 
-3. The initiating Member shall be mainly responsible for shepherding the proceedings, keeping track of the periods, and reminding Members of the ongoing removal proceedings. Other Members may share in this responsibility as necessary to ensure the removal proceedings continue until completion.
+3. A removal call against a Member may neither be made nor seconded by the initiating Member of the immediately previous removal call against that Member, or by the Member who seconded the immediately previous removal call against that Member.
+
+4. The initiating Member shall be mainly responsible for shepherding the proceedings, keeping track of the periods, and reminding Members of the ongoing removal proceedings. Other Members may share in this responsibility as necessary to ensure the removal proceedings continue until completion.
 
 ## C. Discussion
 
