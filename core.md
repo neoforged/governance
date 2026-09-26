@@ -55,6 +55,8 @@ A team is a group of people with similar goals, and equal weighting in most deci
 
 You may [apply to join some teams](https://links.neoforged.net/apply), but some require appointment from within an existing team, or further voting after application.
 
+Members may be removed from any of the teams in accordance with the [policy on removing members](removal.md).
+
 #### Steering Council
 
 The Steering Council ensures that members of a Team are in agreement regarding topics under the Team's purview. To that end, the Council can call for a vote if there is an on-going major dispute about a topic within the Team.
