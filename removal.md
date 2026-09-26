@@ -70,8 +70,6 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.5. If technical difficulty arises in the use of the platform while the vote is ongoing, it may be discarded and a new vote be initiated. However, a vote once concluded may not be discarded.
 
-    1.6. The responsibility of handling the voting process and platform shall be with [the election officers](/steering-council-elections.md#election-officers) of the immediately previous Steering Council election or, if they are unable to do so, the Steering Council. In no case shall this responsibility be held by the Member under removal.
-
 2. The responsibility of handling the voting process and platform shall be held by the voting manager, who is a Member selected for that purpose according to the following rules and done in the removal proceedings space. In no case shall this responsibility be held by the Member under removal.
 
     2.1. Except as explicitly provided below, neither the Member under removal, the initiating Member, nor the Member seconding the removal call are eligible to be the voting manager.
