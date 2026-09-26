@@ -21,23 +21,19 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
 1. A Member may initiate the removal of another Member by calling for a vote in a private space.
 
-    1.1. The removal call must include the name of the initiating Member, the Member under removal, a reason (or multiple reasons) for the removal, and either the specific Team being removed or the Neo Team.
+    1.1. The removal call must include the name of the initiating Member, the Member under removal, a reason (or multiple reasons) for the removal, and either the specific Team being removed or the Neo Team. An example, though it is not required to conform to this exactly: _"I call for the removal of (name) from the (team name) for the following reasons: (reasons)"_.
 
-    1.2. An example, though it is not required to conform to this exactly: _"I call for the removal of (name) from the (team name) for the following reasons: (reasons)"_.
+    1.2. The removal call must be in a space accessible and visible to all Members of the Neo Team. It may be, but is suggested not to be, in a public space accessible to the general community, but it must not be writable by the general community. It should include a mention or notification to the Members of the Neo Team.
 
-    1.3. The removal call must be in a space accessible and visible to all Members of the Neo Team. It may be, but is suggested not to be, in a public space accessible to the general community, but it must not be writable by the general community. It should include a mention or notification to the Members of the Neo Team.
+    1.3. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 30 days.
 
-    1.4. A removal call may not be made against a Member who was previously subject to removal proceedings within the last 30 days.
-
-    1.5. A removal call may not be made while there are existing removal proceedings underway.
+    1.4. A removal call may not be made while there are existing removal proceedings underway.
 
 2. Another Member, different from either the initiating Member or the Member under removal, must second the removal call by stating the same within the same space as the removal call.
     
-    2.1. The seconding of the removal call may be made without any attached reason or discussion.
+    2.1. The seconding of the removal call may be made without any attached reason or discussion. An example, though it is not required to conform to this exactly: _"I second the call for removal of (name)."_
 
-    2.2. An example, though it is not required to conform to this exactly: _"I second the call for removal of (name)."_
-
-    2.3. The seconding must be explicitly made, and may not be taken as implied by further discussion on the removal call.
+    2.2. The seconding must be explicitly made, and may not be taken as implied by further discussion on the removal call.
 
 3. A removal call against a Member may neither be made nor seconded by the initiating Member of the immediately previous removal call against that Member, or by the Member who seconded the immediately previous removal call against that Member.
 
