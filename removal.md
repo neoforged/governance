@@ -16,6 +16,7 @@ The following policy applies to the removal of members of the NeoForged Team by 
 10. The "removal proceedings" refers to the discussion, voting, and other attached processes related to the removal of a Member, as initiated by a removal call.
 11. The "removal discussion space" is the private space created for facilitating the removal proceedings, as defined below.
 12. A "private space" is a channel or other communication space which is only accessible to Members of the Neo Team.
+13. The "voting manager" is a Member selected to be responsible for the handling the voting process and platform.
 
 ## B. Initiation
 
@@ -71,20 +72,30 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     1.6. The responsibility of handling the voting process and platform shall be with [the election officers](/steering-council-elections.md#election-officers) of the immediately previous Steering Council election or, if they are unable to do so, the Steering Council. In no case shall this responsibility be held by the Member under removal.
 
-2. After the vote is finished, the votes shall be tallied and published to all Members of the Neo Team in the removal proceedings space.
+2. The responsibility of handling the voting process and platform shall be held by the voting manager, who is a Member selected for that purpose according to the following rules and done in the removal proceedings space. In no case shall this responsibility be held by the Member under removal.
 
-    2.1. If less than half of all Members of the Neo Team cast a vote, the vote is invalid due to a lack of quorum, the Member under removal is retained, and the removal proceedings end.
+    2.1. Except as explicitly provided below, neither the Member under removal, the initiating Member, nor the Member seconding the removal call are eligible to be the voting manager.
 
-    2.2. If there are two-thirds or more of votes cast in favor of "Yes", the Member under removal is removed effective immediately, and the removal proceedings end.
+    2.1. After the creation of the removal proceedings space, the initiating Member shall call for eligible volunteers. After 24 hours, if there are any volunteers for the position, one shall be selected from among them by random selection to be the voting manager.
 
-    2.3. Otherwise, the Member under removal is retained, and the removal proceedings end.
+    2.2. If there are no volunteers, then an eligible Member shall be randomly selected to be the voting manager, and they shall have the option to accept or decline. If the selected Member declines, another random selection shall be done, until no eligible Members remain who have not declined to be the voting manager.
 
-3. The result of the vote shall be archived in a place accessible to all Members of the Neo Team at all times.
+    2.3. If all eligible Members decline to be the voting manager, or 1 week passes from the creation of the removal proceedings space and no voting manager has been selected, then both the initiating Member and the Member seconding the removal call shall jointly act as the voting manager.
 
-4. If the vote resulted in the removal of the Member under removal, the removal shall be done as soon as possible.
+3. After the vote is finished, the votes shall be tallied and published to all Members of the Neo Team in the removal proceedings space.
 
-    4.1. If the Member under removal is removed from a Team (but not the Neo Team), they shall be stripped of their membership accordingly to that Team, and this shall not affect their membership in any other Team.
+    3.1. If less than half of all Members of the Neo Team cast a vote, the vote is invalid due to a lack of quorum, the Member under removal is retained, and the removal proceedings end.
 
-    4.2. If the Member under removal is removed from the Neo Team, they shall be stripped of their membership on all Teams and on the Neo Team, which in effect shall turn them back into a regular member of the community.
+    3.2. If there are two-thirds or more of votes cast in favor of "Yes", the Member under removal is removed effective immediately, and the removal proceedings end.
 
-    4.3. The removal of a Member from the Neo Team shall not affect or prejudice any ongoing or subsequent moderation actions on that Member.
+    3.3. Otherwise, the Member under removal is retained, and the removal proceedings end.
+
+4. The result of the vote shall be archived in a place accessible to all Members of the Neo Team at all times.
+
+5. If the vote resulted in the removal of the Member under removal, the removal shall be done as soon as possible.
+
+    5.1. If the Member under removal is removed from a Team (but not the Neo Team), they shall be stripped of their membership accordingly to that Team, and this shall not affect their membership in any other Team.
+
+    5.2. If the Member under removal is removed from the Neo Team, they shall be stripped of their membership on all Teams and on the Neo Team, which in effect shall turn them back into a regular member of the community.
+
+    5.3. The removal of a Member from the Neo Team shall not affect or prejudice any ongoing or subsequent moderation actions on that Member.
