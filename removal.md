@@ -74,11 +74,11 @@ The following policy applies to the removal of members of the NeoForged Team by 
 
     2.1. Except as explicitly provided below, neither the Member under removal, the initiating Member, nor the Member seconding the removal call are eligible to be the voting manager.
 
-    2.1. After the creation of the removal proceedings space, the initiating Member shall call for eligible volunteers. After 24 hours, if there are any volunteers for the position, one shall be selected from among them by random selection to be the voting manager.
+    2.2. After the creation of the removal proceedings space, the initiating Member shall call for eligible volunteers. After 24 hours, if there are any volunteers for the position, one shall be selected from among them by random selection to be the voting manager.
 
-    2.2. If there are no volunteers, then an eligible Member shall be randomly selected to be the voting manager, and they shall have the option to accept or decline. If the selected Member declines, another random selection shall be done, until no eligible Members remain who have not declined to be the voting manager.
+    2.3. If there are no volunteers, then an eligible Member shall be randomly selected to be the voting manager, and they shall have the option to accept or decline. If the selected Member declines, another random selection shall be done, until no eligible Members remain who have not declined to be the voting manager.
 
-    2.3. If all eligible Members decline to be the voting manager, or 1 week passes from the creation of the removal proceedings space and no voting manager has been selected, then both the initiating Member and the Member seconding the removal call shall jointly act as the voting manager.
+    2.4. If all eligible Members decline to be the voting manager, or 1 week passes from the creation of the removal proceedings space and no voting manager has been selected, then both the initiating Member and the Member seconding the removal call shall jointly act as the voting manager.
 
 3. After the vote is finished, the votes shall be tallied and published to all Members of the Neo Team in the removal proceedings space.
 
